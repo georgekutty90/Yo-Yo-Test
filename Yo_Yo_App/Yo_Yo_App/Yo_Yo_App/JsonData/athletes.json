@@ -1,0 +1,37 @@
+[
+  {
+    "Id": "1",
+    "TraineeName": "Jeff Coats",
+    "IsWarned": "false",
+    "IsStopped": "false",
+    "Result": ""
+  },
+  {
+    "Id": "2",
+    "TraineeName": "Malina Joe",
+    "IsWarned": "false",
+    "IsStopped": "false",
+    "Result": ""
+  },
+  {
+    "Id": "3",
+    "TraineeName": "Jake Jan",
+    "IsWarned": "false",
+    "IsStopped": "false",
+    "Result": ""
+  },
+  {
+    "Id": "4",
+    "TraineeName": "Hardy Bay",
+    "IsWarned": "false",
+    "IsStopped": "false",
+    "Result": ""
+  },
+  {
+    "Id": "5",
+    "TraineeName": "George Thomas",
+    "IsWarned": "false",
+    "IsStopped": "false",
+    "Result": ""
+  }
+]

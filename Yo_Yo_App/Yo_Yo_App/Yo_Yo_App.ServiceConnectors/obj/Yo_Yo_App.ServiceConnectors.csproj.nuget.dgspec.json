@@ -1,0 +1,376 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.ServiceConnectors\\Yo_Yo_App.ServiceConnectors.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.BAL\\Yo_Yo_App.BAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.BAL\\Yo_Yo_App.BAL.csproj",
+        "projectName": "Yo_Yo_App.BAL",
+        "projectPath": "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.BAL\\Yo_Yo_App.BAL.csproj",
+        "packagesPath": "C:\\Users\\ggeorge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.BAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ggeorge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://localnugetserver.azurewebsites.net/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.DAL\\Yo_Yo_App.DAL.csproj": {
+                "projectPath": "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.DAL\\Yo_Yo_App.DAL.csproj"
+              },
+              "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.Entity\\Yo_Yo_App.Entity.csproj": {
+                "projectPath": "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.Entity\\Yo_Yo_App.Entity.csproj"
+              },
+              "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.Models\\Yo_Yo_App.Models.csproj": {
+                "projectPath": "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.Models\\Yo_Yo_App.Models.csproj"
+              },
+              "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.Utilities\\Yo_Yo_App.Utilities.csproj": {
+                "projectPath": "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.Utilities\\Yo_Yo_App.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.DAL\\Yo_Yo_App.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.DAL\\Yo_Yo_App.DAL.csproj",
+        "projectName": "Yo_Yo_App.DAL",
+        "projectPath": "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.DAL\\Yo_Yo_App.DAL.csproj",
+        "packagesPath": "C:\\Users\\ggeorge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ggeorge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://localnugetserver.azurewebsites.net/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.Entity\\Yo_Yo_App.Entity.csproj": {
+                "projectPath": "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.Entity\\Yo_Yo_App.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.Entity\\Yo_Yo_App.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.Entity\\Yo_Yo_App.Entity.csproj",
+        "projectName": "Yo_Yo_App.Entity",
+        "projectPath": "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.Entity\\Yo_Yo_App.Entity.csproj",
+        "packagesPath": "C:\\Users\\ggeorge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ggeorge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://localnugetserver.azurewebsites.net/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.Models\\Yo_Yo_App.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.Models\\Yo_Yo_App.Models.csproj",
+        "projectName": "Yo_Yo_App.Models",
+        "projectPath": "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.Models\\Yo_Yo_App.Models.csproj",
+        "packagesPath": "C:\\Users\\ggeorge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ggeorge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://localnugetserver.azurewebsites.net/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.ServiceConnectors\\Yo_Yo_App.ServiceConnectors.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.ServiceConnectors\\Yo_Yo_App.ServiceConnectors.csproj",
+        "projectName": "Yo_Yo_App.ServiceConnectors",
+        "projectPath": "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.ServiceConnectors\\Yo_Yo_App.ServiceConnectors.csproj",
+        "packagesPath": "C:\\Users\\ggeorge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.ServiceConnectors\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ggeorge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://localnugetserver.azurewebsites.net/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.BAL\\Yo_Yo_App.BAL.csproj": {
+                "projectPath": "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.BAL\\Yo_Yo_App.BAL.csproj"
+              },
+              "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.DAL\\Yo_Yo_App.DAL.csproj": {
+                "projectPath": "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.DAL\\Yo_Yo_App.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.Utilities\\Yo_Yo_App.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.Utilities\\Yo_Yo_App.Utilities.csproj",
+        "projectName": "Yo_Yo_App.Utilities",
+        "projectPath": "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.Utilities\\Yo_Yo_App.Utilities.csproj",
+        "packagesPath": "C:\\Users\\ggeorge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ggeorge\\source\\repos\\Yo-Yo-Test\\Yo_Yo_App\\Yo_Yo_App\\Yo_Yo_App.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ggeorge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://localnugetserver.azurewebsites.net/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

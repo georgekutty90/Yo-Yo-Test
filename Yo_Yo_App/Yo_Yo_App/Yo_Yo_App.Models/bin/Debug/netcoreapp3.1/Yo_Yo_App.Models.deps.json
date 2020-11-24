@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Yo_Yo_App.Models/1.0.0": {
+        "runtime": {
+          "Yo_Yo_App.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Yo_Yo_App.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

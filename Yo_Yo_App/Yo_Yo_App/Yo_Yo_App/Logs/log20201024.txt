@@ -1,0 +1,615 @@
+2020-10-24 14:57:05.882 +05:30 [INF] User profile is available. Using 'C:\Users\ggeorge\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-10-24 14:57:06.304 +05:30 [INF] Now listening on: https://localhost:5001
+2020-10-24 14:57:06.304 +05:30 [INF] Now listening on: http://localhost:5000
+2020-10-24 14:57:06.304 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2020-10-24 14:57:06.304 +05:30 [INF] Hosting environment: Development
+2020-10-24 14:57:06.304 +05:30 [INF] Content root path: D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App
+2020-10-24 14:57:08.287 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2020-10-24 14:57:08.314 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App)'
+2020-10-24 14:57:08.357 +05:30 [INF] Route matched with {action = "Index", controller = "Athlete"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Yo_Yo_App.Controllers.AthleteController (Yo_Yo_App).
+2020-10-24 14:57:08.606 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App) - Validation state: "Valid"
+2020-10-24 14:57:08.619 +05:30 [INF] Inside AthleteController, menthod name Index
+2020-10-24 14:57:08.906 +05:30 [INF] Executed action method Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App), returned result Microsoft.AspNetCore.Mvc.ViewResult in 294.1072ms.
+2020-10-24 14:57:08.923 +05:30 [INF] Executing ViewResult, running view Index.
+2020-10-24 14:57:09.003 +05:30 [INF] Executed ViewResult - view Index executed in 85.2327ms.
+2020-10-24 14:57:09.004 +05:30 [INF] Executed action Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App) in 646.2804ms
+2020-10-24 14:57:09.004 +05:30 [INF] Executed endpoint 'Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App)'
+2020-10-24 14:57:09.007 +05:30 [INF] Request finished in 723.9502ms 200 text/html; charset=utf-8
+2020-10-24 14:57:09.043 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/css/styles.css  
+2020-10-24 14:57:09.043 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/js/Athlete.js  
+2020-10-24 14:57:09.043 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/css/bootstrap.min.css  
+2020-10-24 14:57:09.043 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/css/site.css  
+2020-10-24 14:57:09.043 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/js/bootstrap.bundle.min.js  
+2020-10-24 14:57:09.043 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/jquery/dist/jquery.min.js  
+2020-10-24 14:57:09.043 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+2020-10-24 14:57:09.088 +05:30 [INF] Sending file. Request path: '/js/site.js'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\js\site.js'
+2020-10-24 14:57:09.088 +05:30 [INF] Sending file. Request path: '/css/styles.css'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\css\styles.css'
+2020-10-24 14:57:09.088 +05:30 [INF] Sending file. Request path: '/js/Athlete.js'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\js\Athlete.js'
+2020-10-24 14:57:09.088 +05:30 [INF] Sending file. Request path: '/css/site.css'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\css\site.css'
+2020-10-24 14:57:09.106 +05:30 [INF] Request finished in 63.8542ms 200 text/css
+2020-10-24 14:57:09.106 +05:30 [INF] Request finished in 63.855ms 200 text/css
+2020-10-24 14:57:09.106 +05:30 [INF] Request finished in 63.1407ms 200 application/javascript
+2020-10-24 14:57:09.106 +05:30 [INF] Request finished in 63.6655ms 200 application/javascript
+2020-10-24 14:57:09.111 +05:30 [INF] Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js'
+2020-10-24 14:57:09.111 +05:30 [INF] Sending file. Request path: '/lib/jquery/dist/jquery.min.js'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\lib\jquery\dist\jquery.min.js'
+2020-10-24 14:57:09.111 +05:30 [INF] Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css'
+2020-10-24 14:57:09.112 +05:30 [INF] Request finished in 68.942ms 200 application/javascript
+2020-10-24 14:57:09.112 +05:30 [INF] Request finished in 69.4991ms 200 application/javascript
+2020-10-24 14:57:09.112 +05:30 [INF] Request finished in 69.5597ms 200 text/css
+2020-10-24 14:57:09.974 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/Athlete/GetAllAthletes  
+2020-10-24 14:57:09.976 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App)'
+2020-10-24 14:57:09.979 +05:30 [INF] Route matched with {action = "GetAllAthletes", controller = "Athlete"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAllAthletes() on controller Yo_Yo_App.Controllers.AthleteController (Yo_Yo_App).
+2020-10-24 14:57:09.995 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App) - Validation state: "Valid"
+2020-10-24 14:57:09.996 +05:30 [INF] Inside AthleteController, menthod name GetAllAthletes
+2020-10-24 14:57:10.028 +05:30 [INF] Executed action method Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App), returned result Microsoft.AspNetCore.Mvc.PartialViewResult in 32.0668ms.
+2020-10-24 14:57:10.029 +05:30 [INF] Executing PartialViewResult, running view ~/Views/Athlete/_partialAthleteList.cshtml.
+2020-10-24 14:57:10.046 +05:30 [INF] Executed PartialViewResult - view ~/Views/Athlete/_partialAthleteList.cshtml executed in 17.0729ms.
+2020-10-24 14:57:10.046 +05:30 [INF] Executed action Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App) in 66.1815ms
+2020-10-24 14:57:10.046 +05:30 [INF] Executed endpoint 'Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App)'
+2020-10-24 14:57:10.046 +05:30 [INF] Request finished in 73.0913ms 200 text/html; charset=utf-8
+2020-10-24 14:57:12.625 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/FitnessTest/GetFitnessRatingTestData?level=0&shuttle=0&time=&distance=  
+2020-10-24 14:57:12.627 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App)'
+2020-10-24 14:57:12.635 +05:30 [INF] Route matched with {action = "GetFitnessRatingTestData", controller = "FitnessTest"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetFitnessRatingTestData(Int32, Int32, Int32, Int32) on controller Yo_Yo_App.Controllers.FitnessTestController (Yo_Yo_App).
+2020-10-24 14:57:12.662 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App) - Validation state: "Invalid"
+2020-10-24 14:57:12.667 +05:30 [INF] Executed action method Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App), returned result Microsoft.AspNetCore.Mvc.PartialViewResult in 4.6348ms.
+2020-10-24 14:57:12.667 +05:30 [INF] Executing PartialViewResult, running view ~/Views/FitnessTest/_partialFitnessTestResult.cshtml.
+2020-10-24 14:57:12.674 +05:30 [INF] Executed PartialViewResult - view ~/Views/FitnessTest/_partialFitnessTestResult.cshtml executed in 7.4337ms.
+2020-10-24 14:57:12.675 +05:30 [INF] Executed action Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App) in 39.0577ms
+2020-10-24 14:57:12.675 +05:30 [INF] Executed endpoint 'Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App)'
+2020-10-24 14:57:12.675 +05:30 [INF] Request finished in 50.4298ms 200 text/html; charset=utf-8
+2020-10-24 14:57:18.650 +05:30 [INF] Request starting HTTP/2 POST https://localhost:5001/Athlete/UpdateAthleteWarnStatus application/x-www-form-urlencoded; charset=UTF-8 4
+2020-10-24 14:57:18.652 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.AthleteController.UpdateAthleteWarnStatus (Yo_Yo_App)'
+2020-10-24 14:57:18.655 +05:30 [INF] Route matched with {action = "UpdateAthleteWarnStatus", controller = "Athlete"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult UpdateAthleteWarnStatus(Int32) on controller Yo_Yo_App.Controllers.AthleteController (Yo_Yo_App).
+2020-10-24 14:57:18.677 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.AthleteController.UpdateAthleteWarnStatus (Yo_Yo_App) - Validation state: "Valid"
+2020-10-24 14:57:18.678 +05:30 [INF] Executed action method Yo_Yo_App.Controllers.AthleteController.UpdateAthleteWarnStatus (Yo_Yo_App), returned result Microsoft.AspNetCore.Mvc.JsonResult in 1.1331ms.
+2020-10-24 14:57:18.679 +05:30 [INF] Executing JsonResult, writing value of type 'System.Boolean'.
+2020-10-24 14:57:18.684 +05:30 [INF] Executed action Yo_Yo_App.Controllers.AthleteController.UpdateAthleteWarnStatus (Yo_Yo_App) in 29.2353ms
+2020-10-24 14:57:18.684 +05:30 [INF] Executed endpoint 'Yo_Yo_App.Controllers.AthleteController.UpdateAthleteWarnStatus (Yo_Yo_App)'
+2020-10-24 14:57:18.684 +05:30 [INF] Request finished in 34.5536ms 200 application/json; charset=utf-8
+2020-10-24 14:57:20.568 +05:30 [INF] Request starting HTTP/2 POST https://localhost:5001/Athlete/UpdateAthleteStopStatus application/x-www-form-urlencoded; charset=UTF-8 19
+2020-10-24 14:57:20.569 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.AthleteController.UpdateAthleteStopStatus (Yo_Yo_App)'
+2020-10-24 14:57:20.575 +05:30 [INF] Route matched with {action = "UpdateAthleteStopStatus", controller = "Athlete"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult UpdateAthleteStopStatus(Int32, System.String) on controller Yo_Yo_App.Controllers.AthleteController (Yo_Yo_App).
+2020-10-24 14:57:20.593 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.AthleteController.UpdateAthleteStopStatus (Yo_Yo_App) - Validation state: "Valid"
+2020-10-24 14:57:20.594 +05:30 [INF] Inside AthleteController, menthod name UpdateAthleteStopStatus, id = 2, testResult = 0-0
+2020-10-24 14:57:20.594 +05:30 [INF] UpdateAthleteStopStatus completed
+2020-10-24 14:57:20.595 +05:30 [INF] Executed action method Yo_Yo_App.Controllers.AthleteController.UpdateAthleteStopStatus (Yo_Yo_App), returned result Microsoft.AspNetCore.Mvc.JsonResult in 1.1854ms.
+2020-10-24 14:57:20.595 +05:30 [INF] Executing JsonResult, writing value of type '<>f__AnonymousType0`2[[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Boolean, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2020-10-24 14:57:20.598 +05:30 [INF] Executed action Yo_Yo_App.Controllers.AthleteController.UpdateAthleteStopStatus (Yo_Yo_App) in 22.1513ms
+2020-10-24 14:57:20.598 +05:30 [INF] Executed endpoint 'Yo_Yo_App.Controllers.AthleteController.UpdateAthleteStopStatus (Yo_Yo_App)'
+2020-10-24 14:57:20.598 +05:30 [INF] Request finished in 30.562ms 200 application/json; charset=utf-8
+2020-10-24 14:57:27.560 +05:30 [INF] Request starting HTTP/2 POST https://localhost:5001/Athlete/UpdateAthleteStopStatus application/x-www-form-urlencoded; charset=UTF-8 19
+2020-10-24 14:57:27.561 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.AthleteController.UpdateAthleteStopStatus (Yo_Yo_App)'
+2020-10-24 14:57:27.561 +05:30 [INF] Route matched with {action = "UpdateAthleteStopStatus", controller = "Athlete"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult UpdateAthleteStopStatus(Int32, System.String) on controller Yo_Yo_App.Controllers.AthleteController (Yo_Yo_App).
+2020-10-24 14:57:27.577 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.AthleteController.UpdateAthleteStopStatus (Yo_Yo_App) - Validation state: "Valid"
+2020-10-24 14:57:27.578 +05:30 [INF] Inside AthleteController, menthod name UpdateAthleteStopStatus, id = 1, testResult = 0-0
+2020-10-24 14:57:27.578 +05:30 [INF] UpdateAthleteStopStatus completed
+2020-10-24 14:57:27.578 +05:30 [INF] Executed action method Yo_Yo_App.Controllers.AthleteController.UpdateAthleteStopStatus (Yo_Yo_App), returned result Microsoft.AspNetCore.Mvc.JsonResult in 0.2436ms.
+2020-10-24 14:57:27.578 +05:30 [INF] Executing JsonResult, writing value of type '<>f__AnonymousType0`2[[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Boolean, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2020-10-24 14:57:27.579 +05:30 [INF] Executed action Yo_Yo_App.Controllers.AthleteController.UpdateAthleteStopStatus (Yo_Yo_App) in 17.4414ms
+2020-10-24 14:57:27.579 +05:30 [INF] Executed endpoint 'Yo_Yo_App.Controllers.AthleteController.UpdateAthleteStopStatus (Yo_Yo_App)'
+2020-10-24 14:57:27.579 +05:30 [INF] Request finished in 19.4122ms 200 application/json; charset=utf-8
+2020-10-24 14:57:28.438 +05:30 [INF] Request starting HTTP/2 POST https://localhost:5001/Athlete/UpdateAthleteStopStatus application/x-www-form-urlencoded; charset=UTF-8 19
+2020-10-24 14:57:28.439 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.AthleteController.UpdateAthleteStopStatus (Yo_Yo_App)'
+2020-10-24 14:57:28.439 +05:30 [INF] Route matched with {action = "UpdateAthleteStopStatus", controller = "Athlete"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult UpdateAthleteStopStatus(Int32, System.String) on controller Yo_Yo_App.Controllers.AthleteController (Yo_Yo_App).
+2020-10-24 14:57:28.459 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.AthleteController.UpdateAthleteStopStatus (Yo_Yo_App) - Validation state: "Valid"
+2020-10-24 14:57:28.459 +05:30 [INF] Inside AthleteController, menthod name UpdateAthleteStopStatus, id = 3, testResult = 0-0
+2020-10-24 14:57:28.459 +05:30 [INF] UpdateAthleteStopStatus completed
+2020-10-24 14:57:28.459 +05:30 [INF] Executed action method Yo_Yo_App.Controllers.AthleteController.UpdateAthleteStopStatus (Yo_Yo_App), returned result Microsoft.AspNetCore.Mvc.JsonResult in 0.3617ms.
+2020-10-24 14:57:28.460 +05:30 [INF] Executing JsonResult, writing value of type '<>f__AnonymousType0`2[[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Boolean, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2020-10-24 14:57:28.460 +05:30 [INF] Executed action Yo_Yo_App.Controllers.AthleteController.UpdateAthleteStopStatus (Yo_Yo_App) in 20.4865ms
+2020-10-24 14:57:28.460 +05:30 [INF] Executed endpoint 'Yo_Yo_App.Controllers.AthleteController.UpdateAthleteStopStatus (Yo_Yo_App)'
+2020-10-24 14:57:28.461 +05:30 [INF] Request finished in 22.9294ms 200 application/json; charset=utf-8
+2020-10-24 14:57:29.562 +05:30 [INF] Request starting HTTP/2 POST https://localhost:5001/Athlete/UpdateAthleteStopStatus application/x-www-form-urlencoded; charset=UTF-8 19
+2020-10-24 14:57:29.563 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.AthleteController.UpdateAthleteStopStatus (Yo_Yo_App)'
+2020-10-24 14:57:29.564 +05:30 [INF] Route matched with {action = "UpdateAthleteStopStatus", controller = "Athlete"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult UpdateAthleteStopStatus(Int32, System.String) on controller Yo_Yo_App.Controllers.AthleteController (Yo_Yo_App).
+2020-10-24 14:57:29.581 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.AthleteController.UpdateAthleteStopStatus (Yo_Yo_App) - Validation state: "Valid"
+2020-10-24 14:57:29.581 +05:30 [INF] Inside AthleteController, menthod name UpdateAthleteStopStatus, id = 5, testResult = 0-0
+2020-10-24 14:57:29.582 +05:30 [INF] UpdateAthleteStopStatus completed
+2020-10-24 14:57:29.582 +05:30 [INF] Executed action method Yo_Yo_App.Controllers.AthleteController.UpdateAthleteStopStatus (Yo_Yo_App), returned result Microsoft.AspNetCore.Mvc.JsonResult in 0.2259ms.
+2020-10-24 14:57:29.582 +05:30 [INF] Executing JsonResult, writing value of type '<>f__AnonymousType0`2[[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Boolean, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2020-10-24 14:57:29.582 +05:30 [INF] Executed action Yo_Yo_App.Controllers.AthleteController.UpdateAthleteStopStatus (Yo_Yo_App) in 18.3495ms
+2020-10-24 14:57:29.582 +05:30 [INF] Executed endpoint 'Yo_Yo_App.Controllers.AthleteController.UpdateAthleteStopStatus (Yo_Yo_App)'
+2020-10-24 14:57:29.583 +05:30 [INF] Request finished in 22.9409ms 200 application/json; charset=utf-8
+2020-10-24 14:57:30.221 +05:30 [INF] Request starting HTTP/2 POST https://localhost:5001/Athlete/UpdateAthleteStopStatus application/x-www-form-urlencoded; charset=UTF-8 19
+2020-10-24 14:57:30.221 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.AthleteController.UpdateAthleteStopStatus (Yo_Yo_App)'
+2020-10-24 14:57:30.222 +05:30 [INF] Route matched with {action = "UpdateAthleteStopStatus", controller = "Athlete"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult UpdateAthleteStopStatus(Int32, System.String) on controller Yo_Yo_App.Controllers.AthleteController (Yo_Yo_App).
+2020-10-24 14:57:30.239 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.AthleteController.UpdateAthleteStopStatus (Yo_Yo_App) - Validation state: "Valid"
+2020-10-24 14:57:30.239 +05:30 [INF] Inside AthleteController, menthod name UpdateAthleteStopStatus, id = 4, testResult = 0-0
+2020-10-24 14:57:30.240 +05:30 [INF] UpdateAthleteStopStatus completed
+2020-10-24 14:57:30.240 +05:30 [INF] Executed action method Yo_Yo_App.Controllers.AthleteController.UpdateAthleteStopStatus (Yo_Yo_App), returned result Microsoft.AspNetCore.Mvc.JsonResult in 0.3575ms.
+2020-10-24 14:57:30.240 +05:30 [INF] Executing JsonResult, writing value of type '<>f__AnonymousType0`2[[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Boolean, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2020-10-24 14:57:30.241 +05:30 [INF] Executed action Yo_Yo_App.Controllers.AthleteController.UpdateAthleteStopStatus (Yo_Yo_App) in 18.4968ms
+2020-10-24 14:57:30.241 +05:30 [INF] Executed endpoint 'Yo_Yo_App.Controllers.AthleteController.UpdateAthleteStopStatus (Yo_Yo_App)'
+2020-10-24 14:57:30.241 +05:30 [INF] Request finished in 20.2589ms 200 application/json; charset=utf-8
+2020-10-24 14:57:30.625 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/Athlete/GetAllAthletesCompleteResult?shuttle=1&level=5  
+2020-10-24 14:57:30.625 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.AthleteController.GetAllAthletesCompleteResult (Yo_Yo_App)'
+2020-10-24 14:57:30.627 +05:30 [INF] Route matched with {action = "GetAllAthletesCompleteResult", controller = "Athlete"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAllAthletesCompleteResult(Int32, Int32) on controller Yo_Yo_App.Controllers.AthleteController (Yo_Yo_App).
+2020-10-24 14:57:30.644 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.AthleteController.GetAllAthletesCompleteResult (Yo_Yo_App) - Validation state: "Valid"
+2020-10-24 14:57:30.644 +05:30 [INF] Inside AthleteController, menthod name GetAllAthletesCompleteResult
+2020-10-24 14:57:30.648 +05:30 [INF] Executed action method Yo_Yo_App.Controllers.AthleteController.GetAllAthletesCompleteResult (Yo_Yo_App), returned result Microsoft.AspNetCore.Mvc.PartialViewResult in 3.4811ms.
+2020-10-24 14:57:30.648 +05:30 [INF] Executing PartialViewResult, running view ~/Views/Athlete/_partialAthleteList.cshtml.
+2020-10-24 14:57:30.650 +05:30 [INF] Executed PartialViewResult - view ~/Views/Athlete/_partialAthleteList.cshtml executed in 2.7653ms.
+2020-10-24 14:57:30.651 +05:30 [INF] Executed action Yo_Yo_App.Controllers.AthleteController.GetAllAthletesCompleteResult (Yo_Yo_App) in 23.3245ms
+2020-10-24 14:57:30.651 +05:30 [INF] Executed endpoint 'Yo_Yo_App.Controllers.AthleteController.GetAllAthletesCompleteResult (Yo_Yo_App)'
+2020-10-24 14:57:30.651 +05:30 [INF] Request finished in 26.3028ms 200 text/html; charset=utf-8
+2020-10-24 14:57:38.156 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2020-10-24 14:57:38.157 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App)'
+2020-10-24 14:57:38.158 +05:30 [INF] Route matched with {action = "Index", controller = "Athlete"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Yo_Yo_App.Controllers.AthleteController (Yo_Yo_App).
+2020-10-24 14:57:38.176 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App) - Validation state: "Valid"
+2020-10-24 14:57:38.176 +05:30 [INF] Inside AthleteController, menthod name Index
+2020-10-24 14:57:38.179 +05:30 [INF] Executed action method Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App), returned result Microsoft.AspNetCore.Mvc.ViewResult in 2.4901ms.
+2020-10-24 14:57:38.179 +05:30 [INF] Executing ViewResult, running view Index.
+2020-10-24 14:57:38.182 +05:30 [INF] Executed ViewResult - view Index executed in 2.3145ms.
+2020-10-24 14:57:38.182 +05:30 [INF] Executed action Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App) in 24.7829ms
+2020-10-24 14:57:38.191 +05:30 [INF] Executed endpoint 'Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App)'
+2020-10-24 14:57:38.191 +05:30 [INF] Request finished in 34.7028ms 200 text/html; charset=utf-8
+2020-10-24 14:57:38.233 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/jquery/dist/jquery.min.js  
+2020-10-24 14:57:38.233 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/js/Athlete.js  
+2020-10-24 14:57:38.233 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+2020-10-24 14:57:38.233 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/css/styles.css  
+2020-10-24 14:57:38.233 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/js/bootstrap.bundle.min.js  
+2020-10-24 14:57:38.234 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/css/bootstrap.min.css  
+2020-10-24 14:57:38.234 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/css/site.css  
+2020-10-24 14:57:38.236 +05:30 [INF] Sending file. Request path: '/js/Athlete.js'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\js\Athlete.js'
+2020-10-24 14:57:38.236 +05:30 [INF] Sending file. Request path: '/js/site.js'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\js\site.js'
+2020-10-24 14:57:38.236 +05:30 [INF] Sending file. Request path: '/css/styles.css'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\css\styles.css'
+2020-10-24 14:57:38.237 +05:30 [INF] Request finished in 3.4379ms 200 application/javascript
+2020-10-24 14:57:38.236 +05:30 [INF] Request finished in 2.994ms 200 application/javascript
+2020-10-24 14:57:38.238 +05:30 [INF] Request finished in 5.5123ms 200 text/css
+2020-10-24 14:57:38.261 +05:30 [INF] Sending file. Request path: '/css/site.css'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\css\site.css'
+2020-10-24 14:57:38.282 +05:30 [INF] Request finished in 38.235ms 200 text/css
+2020-10-24 14:57:38.283 +05:30 [INF] Sending file. Request path: '/lib/jquery/dist/jquery.min.js'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\lib\jquery\dist\jquery.min.js'
+2020-10-24 14:57:38.283 +05:30 [INF] Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js'
+2020-10-24 14:57:38.283 +05:30 [INF] Request finished in 49.8179ms 200 application/javascript
+2020-10-24 14:57:38.283 +05:30 [INF] Request finished in 49.4458ms 200 application/javascript
+2020-10-24 14:57:38.284 +05:30 [INF] Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css'
+2020-10-24 14:57:38.284 +05:30 [INF] Request finished in 51.1136ms 200 text/css
+2020-10-24 14:57:38.615 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/Athlete/GetAllAthletes  
+2020-10-24 14:57:38.616 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App)'
+2020-10-24 14:57:38.616 +05:30 [INF] Route matched with {action = "GetAllAthletes", controller = "Athlete"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAllAthletes() on controller Yo_Yo_App.Controllers.AthleteController (Yo_Yo_App).
+2020-10-24 14:57:38.643 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App) - Validation state: "Valid"
+2020-10-24 14:57:38.643 +05:30 [INF] Inside AthleteController, menthod name GetAllAthletes
+2020-10-24 14:57:38.646 +05:30 [INF] Executed action method Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App), returned result Microsoft.AspNetCore.Mvc.PartialViewResult in 2.4253ms.
+2020-10-24 14:57:38.646 +05:30 [INF] Executing PartialViewResult, running view ~/Views/Athlete/_partialAthleteList.cshtml.
+2020-10-24 14:57:38.654 +05:30 [INF] Executed PartialViewResult - view ~/Views/Athlete/_partialAthleteList.cshtml executed in 8.2654ms.
+2020-10-24 14:57:38.654 +05:30 [INF] Executed action Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App) in 38.1409ms
+2020-10-24 14:57:38.655 +05:30 [INF] Executed endpoint 'Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App)'
+2020-10-24 14:57:38.655 +05:30 [INF] Request finished in 39.8482ms 200 text/html; charset=utf-8
+2020-10-24 14:57:38.995 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/favicon.ico  
+2020-10-24 14:57:38.998 +05:30 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\favicon.ico'
+2020-10-24 14:57:38.999 +05:30 [INF] Request finished in 3.2711ms 200 image/x-icon
+2020-10-24 14:57:54.448 +05:30 [INF] User profile is available. Using 'C:\Users\ggeorge\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-10-24 14:57:54.907 +05:30 [INF] Now listening on: https://localhost:5001
+2020-10-24 14:57:54.908 +05:30 [INF] Now listening on: http://localhost:5000
+2020-10-24 14:57:54.908 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2020-10-24 14:57:54.908 +05:30 [INF] Hosting environment: Development
+2020-10-24 14:57:54.908 +05:30 [INF] Content root path: D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App
+2020-10-24 14:57:57.204 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2020-10-24 14:57:57.229 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App)'
+2020-10-24 14:57:57.283 +05:30 [INF] Route matched with {action = "Index", controller = "Athlete"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Yo_Yo_App.Controllers.AthleteController (Yo_Yo_App).
+2020-10-24 14:57:57.521 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App) - Validation state: "Valid"
+2020-10-24 14:57:57.535 +05:30 [INF] Inside AthleteController, menthod name Index
+2020-10-24 14:57:57.762 +05:30 [INF] Executed action method Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App), returned result Microsoft.AspNetCore.Mvc.ViewResult in 236.1888ms.
+2020-10-24 14:57:57.779 +05:30 [INF] Executing ViewResult, running view Index.
+2020-10-24 14:57:57.870 +05:30 [INF] Executed ViewResult - view Index executed in 96.7656ms.
+2020-10-24 14:57:57.871 +05:30 [INF] Executed action Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App) in 587.2299ms
+2020-10-24 14:57:57.871 +05:30 [INF] Executed endpoint 'Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App)'
+2020-10-24 14:57:57.874 +05:30 [INF] Request finished in 673.6047ms 200 text/html; charset=utf-8
+2020-10-24 14:57:58.432 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/css/bootstrap.min.css  
+2020-10-24 14:57:58.507 +05:30 [INF] Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css'
+2020-10-24 14:57:58.514 +05:30 [INF] Request finished in 80.808ms 200 text/css
+2020-10-24 14:57:58.518 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/css/site.css  
+2020-10-24 14:57:58.519 +05:30 [INF] Sending file. Request path: '/css/site.css'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\css\site.css'
+2020-10-24 14:57:58.519 +05:30 [INF] Request finished in 1.0702ms 200 text/css
+2020-10-24 14:57:58.531 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/css/styles.css  
+2020-10-24 14:57:58.532 +05:30 [INF] Sending file. Request path: '/css/styles.css'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\css\styles.css'
+2020-10-24 14:57:58.532 +05:30 [INF] Request finished in 1.0551ms 200 text/css
+2020-10-24 14:57:58.542 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/jquery/dist/jquery.min.js  
+2020-10-24 14:57:58.549 +05:30 [INF] Sending file. Request path: '/lib/jquery/dist/jquery.min.js'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\lib\jquery\dist\jquery.min.js'
+2020-10-24 14:57:58.549 +05:30 [INF] Request finished in 8.7496ms 200 application/javascript
+2020-10-24 14:57:58.559 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/js/Athlete.js  
+2020-10-24 14:57:58.565 +05:30 [INF] Sending file. Request path: '/js/Athlete.js'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\js\Athlete.js'
+2020-10-24 14:57:58.566 +05:30 [INF] Request finished in 7.6509ms 200 application/javascript
+2020-10-24 14:57:58.568 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/js/bootstrap.bundle.min.js  
+2020-10-24 14:57:58.583 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+2020-10-24 14:57:58.583 +05:30 [INF] Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js'
+2020-10-24 14:57:58.584 +05:30 [INF] Request finished in 16.0235ms 200 application/javascript
+2020-10-24 14:57:58.584 +05:30 [INF] Sending file. Request path: '/js/site.js'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\js\site.js'
+2020-10-24 14:57:58.585 +05:30 [INF] Request finished in 1.7848ms 200 application/javascript
+2020-10-24 14:57:59.245 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/Athlete/GetAllAthletes  
+2020-10-24 14:57:59.251 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App)'
+2020-10-24 14:57:59.265 +05:30 [INF] Route matched with {action = "GetAllAthletes", controller = "Athlete"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAllAthletes() on controller Yo_Yo_App.Controllers.AthleteController (Yo_Yo_App).
+2020-10-24 14:57:59.311 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App) - Validation state: "Valid"
+2020-10-24 14:57:59.311 +05:30 [INF] Inside AthleteController, menthod name GetAllAthletes
+2020-10-24 14:57:59.377 +05:30 [INF] Executed action method Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App), returned result Microsoft.AspNetCore.Mvc.PartialViewResult in 65.6599ms.
+2020-10-24 14:57:59.379 +05:30 [INF] Executing PartialViewResult, running view ~/Views/Athlete/_partialAthleteList.cshtml.
+2020-10-24 14:57:59.408 +05:30 [INF] Executed PartialViewResult - view ~/Views/Athlete/_partialAthleteList.cshtml executed in 30.2227ms.
+2020-10-24 14:57:59.408 +05:30 [INF] Executed action Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App) in 143.5402ms
+2020-10-24 14:57:59.409 +05:30 [INF] Executed endpoint 'Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App)'
+2020-10-24 14:57:59.409 +05:30 [INF] Request finished in 164.2614ms 200 text/html; charset=utf-8
+2020-10-24 14:58:03.506 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/FitnessTest/GetFitnessRatingTestData?level=0&shuttle=0&time=&distance=  
+2020-10-24 14:58:03.507 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App)'
+2020-10-24 14:58:03.516 +05:30 [INF] Route matched with {action = "GetFitnessRatingTestData", controller = "FitnessTest"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetFitnessRatingTestData(Int32, Int32, Int32, Int32) on controller Yo_Yo_App.Controllers.FitnessTestController (Yo_Yo_App).
+2020-10-24 14:58:03.541 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App) - Validation state: "Invalid"
+2020-10-24 14:58:03.545 +05:30 [INF] Executed action method Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App), returned result Microsoft.AspNetCore.Mvc.PartialViewResult in 4.6417ms.
+2020-10-24 14:58:03.546 +05:30 [INF] Executing PartialViewResult, running view ~/Views/FitnessTest/_partialFitnessTestResult.cshtml.
+2020-10-24 14:58:03.553 +05:30 [INF] Executed PartialViewResult - view ~/Views/FitnessTest/_partialFitnessTestResult.cshtml executed in 7.0929ms.
+2020-10-24 14:58:03.553 +05:30 [INF] Executed action Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App) in 36.4535ms
+2020-10-24 14:58:03.553 +05:30 [INF] Executed endpoint 'Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App)'
+2020-10-24 14:58:03.553 +05:30 [INF] Request finished in 48.0769ms 200 text/html; charset=utf-8
+2020-10-24 14:58:27.505 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/FitnessTest/GetFitnessRatingTestData?level=5&shuttle=1&time=24&distance=40  
+2020-10-24 14:58:27.506 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App)'
+2020-10-24 14:58:27.507 +05:30 [INF] Route matched with {action = "GetFitnessRatingTestData", controller = "FitnessTest"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetFitnessRatingTestData(Int32, Int32, Int32, Int32) on controller Yo_Yo_App.Controllers.FitnessTestController (Yo_Yo_App).
+2020-10-24 14:58:27.524 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App) - Validation state: "Valid"
+2020-10-24 14:58:27.526 +05:30 [INF] Executed action method Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App), returned result Microsoft.AspNetCore.Mvc.PartialViewResult in 1.2921ms.
+2020-10-24 14:58:27.526 +05:30 [INF] Executing PartialViewResult, running view ~/Views/FitnessTest/_partialFitnessTestResult.cshtml.
+2020-10-24 14:58:27.527 +05:30 [INF] Executed PartialViewResult - view ~/Views/FitnessTest/_partialFitnessTestResult.cshtml executed in 1.0006ms.
+2020-10-24 14:58:27.527 +05:30 [INF] Executed action Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App) in 20.172ms
+2020-10-24 14:58:27.527 +05:30 [INF] Executed endpoint 'Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App)'
+2020-10-24 14:58:27.527 +05:30 [INF] Request finished in 22.8256ms 200 text/html; charset=utf-8
+2020-10-24 14:58:49.505 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/FitnessTest/GetFitnessRatingTestData?level=9&shuttle=1&time=46&distance=80  
+2020-10-24 14:58:49.505 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App)'
+2020-10-24 14:58:49.506 +05:30 [INF] Route matched with {action = "GetFitnessRatingTestData", controller = "FitnessTest"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetFitnessRatingTestData(Int32, Int32, Int32, Int32) on controller Yo_Yo_App.Controllers.FitnessTestController (Yo_Yo_App).
+2020-10-24 14:58:49.522 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App) - Validation state: "Valid"
+2020-10-24 14:58:49.523 +05:30 [INF] Executed action method Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App), returned result Microsoft.AspNetCore.Mvc.PartialViewResult in 1.262ms.
+2020-10-24 14:58:49.523 +05:30 [INF] Executing PartialViewResult, running view ~/Views/FitnessTest/_partialFitnessTestResult.cshtml.
+2020-10-24 14:58:49.525 +05:30 [INF] Executed PartialViewResult - view ~/Views/FitnessTest/_partialFitnessTestResult.cshtml executed in 1.2216ms.
+2020-10-24 14:58:49.525 +05:30 [INF] Executed action Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App) in 18.9222ms
+2020-10-24 14:58:49.525 +05:30 [INF] Executed endpoint 'Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App)'
+2020-10-24 14:58:49.525 +05:30 [INF] Request finished in 20.9339ms 200 text/html; charset=utf-8
+2020-10-24 14:59:10.513 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/FitnessTest/GetFitnessRatingTestData?level=11&shuttle=1&time=67&distance=120  
+2020-10-24 14:59:10.514 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App)'
+2020-10-24 14:59:10.514 +05:30 [INF] Route matched with {action = "GetFitnessRatingTestData", controller = "FitnessTest"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetFitnessRatingTestData(Int32, Int32, Int32, Int32) on controller Yo_Yo_App.Controllers.FitnessTestController (Yo_Yo_App).
+2020-10-24 14:59:10.530 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App) - Validation state: "Valid"
+2020-10-24 14:59:10.532 +05:30 [INF] Executed action method Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App), returned result Microsoft.AspNetCore.Mvc.PartialViewResult in 1.2555ms.
+2020-10-24 14:59:10.532 +05:30 [INF] Executing PartialViewResult, running view ~/Views/FitnessTest/_partialFitnessTestResult.cshtml.
+2020-10-24 14:59:10.533 +05:30 [INF] Executed PartialViewResult - view ~/Views/FitnessTest/_partialFitnessTestResult.cshtml executed in 0.8532ms.
+2020-10-24 14:59:10.533 +05:30 [INF] Executed action Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App) in 18.4531ms
+2020-10-24 14:59:10.533 +05:30 [INF] Executed endpoint 'Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App)'
+2020-10-24 14:59:10.533 +05:30 [INF] Request finished in 20.4553ms 200 text/html; charset=utf-8
+2020-10-24 14:59:22.093 +05:30 [INF] Request starting HTTP/2 POST https://localhost:5001/Athlete/UpdateAthleteWarnStatus application/x-www-form-urlencoded; charset=UTF-8 4
+2020-10-24 14:59:22.095 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.AthleteController.UpdateAthleteWarnStatus (Yo_Yo_App)'
+2020-10-24 14:59:22.098 +05:30 [INF] Route matched with {action = "UpdateAthleteWarnStatus", controller = "Athlete"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult UpdateAthleteWarnStatus(Int32) on controller Yo_Yo_App.Controllers.AthleteController (Yo_Yo_App).
+2020-10-24 14:59:22.119 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.AthleteController.UpdateAthleteWarnStatus (Yo_Yo_App) - Validation state: "Valid"
+2020-10-24 14:59:22.121 +05:30 [INF] Executed action method Yo_Yo_App.Controllers.AthleteController.UpdateAthleteWarnStatus (Yo_Yo_App), returned result Microsoft.AspNetCore.Mvc.JsonResult in 1.0004ms.
+2020-10-24 14:59:22.122 +05:30 [INF] Executing JsonResult, writing value of type 'System.Boolean'.
+2020-10-24 14:59:22.127 +05:30 [INF] Executed action Yo_Yo_App.Controllers.AthleteController.UpdateAthleteWarnStatus (Yo_Yo_App) in 28.4828ms
+2020-10-24 14:59:22.127 +05:30 [INF] Executed endpoint 'Yo_Yo_App.Controllers.AthleteController.UpdateAthleteWarnStatus (Yo_Yo_App)'
+2020-10-24 14:59:22.127 +05:30 [INF] Request finished in 33.7598ms 200 application/json; charset=utf-8
+2020-10-24 19:09:30.092 +05:30 [INF] User profile is available. Using 'C:\Users\ggeorge\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-10-24 19:09:30.622 +05:30 [INF] Now listening on: https://localhost:5001
+2020-10-24 19:09:30.623 +05:30 [INF] Now listening on: http://localhost:5000
+2020-10-24 19:09:30.623 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2020-10-24 19:09:30.623 +05:30 [INF] Hosting environment: Development
+2020-10-24 19:09:30.623 +05:30 [INF] Content root path: D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App
+2020-10-24 19:09:33.178 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2020-10-24 19:09:33.212 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App)'
+2020-10-24 19:09:33.271 +05:30 [INF] Route matched with {action = "Index", controller = "Athlete"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Yo_Yo_App.Controllers.AthleteController (Yo_Yo_App).
+2020-10-24 19:09:33.575 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App) - Validation state: "Valid"
+2020-10-24 19:09:33.589 +05:30 [INF] Inside AthleteController, menthod name Index
+2020-10-24 19:09:33.624 +05:30 [INF] Inside FitnessTestBAL, menthod name GetCommulativeTotalTime
+2020-10-24 19:09:33.851 +05:30 [INF] Executed action method Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App), returned result Microsoft.AspNetCore.Mvc.ViewResult in 270.9167ms.
+2020-10-24 19:09:33.872 +05:30 [INF] Executing ViewResult, running view Index.
+2020-10-24 19:09:33.961 +05:30 [INF] Executed ViewResult - view Index executed in 94.1626ms.
+2020-10-24 19:09:33.962 +05:30 [INF] Executed action Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App) in 689.9981ms
+2020-10-24 19:09:33.962 +05:30 [INF] Executed endpoint 'Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App)'
+2020-10-24 19:09:33.965 +05:30 [INF] Request finished in 789.6037ms 200 text/html; charset=utf-8
+2020-10-24 19:09:34.215 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/css/bootstrap.min.css  
+2020-10-24 19:09:34.215 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/css/site.css  
+2020-10-24 19:09:34.236 +05:30 [INF] Sending file. Request path: '/css/site.css'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\css\site.css'
+2020-10-24 19:09:34.242 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/css/styles.css  
+2020-10-24 19:09:34.244 +05:30 [INF] Request finished in 28.9269ms 200 text/css
+2020-10-24 19:09:34.244 +05:30 [INF] Sending file. Request path: '/css/styles.css'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\css\styles.css'
+2020-10-24 19:09:34.244 +05:30 [INF] Request finished in 2.0973ms 200 text/css
+2020-10-24 19:09:34.249 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/jquery/dist/jquery.min.js  
+2020-10-24 19:09:34.251 +05:30 [INF] Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css'
+2020-10-24 19:09:34.253 +05:30 [INF] Sending file. Request path: '/lib/jquery/dist/jquery.min.js'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\lib\jquery\dist\jquery.min.js'
+2020-10-24 19:09:34.254 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/js/Athlete.js  
+2020-10-24 19:09:34.254 +05:30 [INF] Request finished in 38.9968ms 200 text/css
+2020-10-24 19:09:34.254 +05:30 [INF] Request finished in 5.4982ms 200 application/javascript
+2020-10-24 19:09:34.255 +05:30 [INF] Sending file. Request path: '/js/Athlete.js'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\js\Athlete.js'
+2020-10-24 19:09:34.256 +05:30 [INF] Request finished in 2.6013ms 200 application/javascript
+2020-10-24 19:09:34.262 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/js/bootstrap.bundle.min.js  
+2020-10-24 19:09:34.266 +05:30 [INF] Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js'
+2020-10-24 19:09:34.266 +05:30 [INF] Request finished in 4.1066ms 200 application/javascript
+2020-10-24 19:09:34.272 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+2020-10-24 19:09:34.273 +05:30 [INF] Sending file. Request path: '/js/site.js'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\js\site.js'
+2020-10-24 19:09:34.273 +05:30 [INF] Request finished in 0.8736ms 200 application/javascript
+2020-10-24 19:09:34.732 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/Athlete/GetAllAthletes  
+2020-10-24 19:09:34.736 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App)'
+2020-10-24 19:09:34.739 +05:30 [INF] Route matched with {action = "GetAllAthletes", controller = "Athlete"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAllAthletes() on controller Yo_Yo_App.Controllers.AthleteController (Yo_Yo_App).
+2020-10-24 19:09:34.755 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App) - Validation state: "Valid"
+2020-10-24 19:09:34.755 +05:30 [INF] Inside AthleteController, menthod name GetAllAthletes
+2020-10-24 19:09:34.755 +05:30 [INF] Inside AthleteBAL, menthod name GetAllAthletes
+2020-10-24 19:09:34.755 +05:30 [INF] Inside AthleteBAL, menthod name GetAthletesList
+2020-10-24 19:09:34.762 +05:30 [INF] Inside AthleteBAL, menthod name GetLevelShuttleList
+2020-10-24 19:09:34.762 +05:30 [INF] Inside FitnessTestBAL, menthod name GetAllFitnessRatingData
+2020-10-24 19:09:34.780 +05:30 [INF] Executed action method Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App), returned result Microsoft.AspNetCore.Mvc.PartialViewResult in 25.4885ms.
+2020-10-24 19:09:34.782 +05:30 [INF] Executing PartialViewResult, running view ~/Views/Athlete/_partialAthleteList.cshtml.
+2020-10-24 19:09:34.798 +05:30 [INF] Executed PartialViewResult - view ~/Views/Athlete/_partialAthleteList.cshtml executed in 16.537ms.
+2020-10-24 19:09:34.798 +05:30 [INF] Executed action Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App) in 59.0906ms
+2020-10-24 19:09:34.798 +05:30 [INF] Executed endpoint 'Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App)'
+2020-10-24 19:09:34.798 +05:30 [INF] Request finished in 66.498ms 200 text/html; charset=utf-8
+2020-10-24 20:09:20.896 +05:30 [INF] User profile is available. Using 'C:\Users\ggeorge\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-10-24 20:09:21.297 +05:30 [INF] Now listening on: https://localhost:5001
+2020-10-24 20:09:21.297 +05:30 [INF] Now listening on: http://localhost:5000
+2020-10-24 20:09:21.297 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2020-10-24 20:09:21.297 +05:30 [INF] Hosting environment: Development
+2020-10-24 20:09:21.297 +05:30 [INF] Content root path: D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App
+2020-10-24 20:09:25.473 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2020-10-24 20:09:25.499 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App)'
+2020-10-24 20:09:25.543 +05:30 [INF] Route matched with {action = "Index", controller = "Athlete"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Yo_Yo_App.Controllers.AthleteController (Yo_Yo_App).
+2020-10-24 20:09:25.761 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App) - Validation state: "Valid"
+2020-10-24 20:09:25.771 +05:30 [INF] Inside AthleteController, menthod name Index
+2020-10-24 20:09:25.801 +05:30 [INF] Inside FitnessTestBAL, menthod name GetCommulativeTotalTime
+2020-10-24 20:09:25.993 +05:30 [INF] Executed action method Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App), returned result Microsoft.AspNetCore.Mvc.ViewResult in 227.0268ms.
+2020-10-24 20:09:26.011 +05:30 [INF] Executing ViewResult, running view Index.
+2020-10-24 20:09:26.106 +05:30 [INF] Executed ViewResult - view Index executed in 99.5898ms.
+2020-10-24 20:09:26.107 +05:30 [INF] Executed action Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App) in 562.9209ms
+2020-10-24 20:09:26.107 +05:30 [INF] Executed endpoint 'Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App)'
+2020-10-24 20:09:26.111 +05:30 [INF] Request finished in 640.0598ms 200 text/html; charset=utf-8
+2020-10-24 20:09:26.422 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/css/bootstrap.min.css  
+2020-10-24 20:09:26.422 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/css/site.css  
+2020-10-24 20:09:26.460 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/css/styles.css  
+2020-10-24 20:09:26.464 +05:30 [INF] Sending file. Request path: '/css/styles.css'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\css\styles.css'
+2020-10-24 20:09:26.464 +05:30 [INF] Sending file. Request path: '/css/site.css'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\css\site.css'
+2020-10-24 20:09:26.465 +05:30 [INF] Request finished in 42.3582ms 200 text/css
+2020-10-24 20:09:26.465 +05:30 [INF] Request finished in 5.0142ms 200 text/css
+2020-10-24 20:09:26.468 +05:30 [INF] Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css'
+2020-10-24 20:09:26.470 +05:30 [INF] Request finished in 47.2204ms 200 text/css
+2020-10-24 20:09:26.473 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/jquery/dist/jquery.min.js  
+2020-10-24 20:09:26.474 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/js/Athlete.js  
+2020-10-24 20:09:26.476 +05:30 [INF] Sending file. Request path: '/lib/jquery/dist/jquery.min.js'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\lib\jquery\dist\jquery.min.js'
+2020-10-24 20:09:26.476 +05:30 [INF] Sending file. Request path: '/js/Athlete.js'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\js\Athlete.js'
+2020-10-24 20:09:26.476 +05:30 [INF] Request finished in 3.2566ms 200 application/javascript
+2020-10-24 20:09:26.476 +05:30 [INF] Request finished in 2.378ms 200 application/javascript
+2020-10-24 20:09:26.476 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/js/bootstrap.bundle.min.js  
+2020-10-24 20:09:26.481 +05:30 [INF] Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js'
+2020-10-24 20:09:26.481 +05:30 [INF] Request finished in 4.7772ms 200 application/javascript
+2020-10-24 20:09:26.489 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+2020-10-24 20:09:26.490 +05:30 [INF] Sending file. Request path: '/js/site.js'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\js\site.js'
+2020-10-24 20:09:26.490 +05:30 [INF] Request finished in 1.1472ms 200 application/javascript
+2020-10-24 20:09:27.731 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/Athlete/GetAllAthletes  
+2020-10-24 20:09:27.734 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App)'
+2020-10-24 20:09:27.736 +05:30 [INF] Route matched with {action = "GetAllAthletes", controller = "Athlete"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAllAthletes() on controller Yo_Yo_App.Controllers.AthleteController (Yo_Yo_App).
+2020-10-24 20:09:27.752 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App) - Validation state: "Valid"
+2020-10-24 20:09:27.752 +05:30 [INF] Inside AthleteController, menthod name GetAllAthletes
+2020-10-24 20:09:27.752 +05:30 [INF] Inside AthleteBAL, menthod name GetAllAthletes
+2020-10-24 20:09:27.753 +05:30 [INF] Inside AthleteBAL, menthod name GetAthletesList
+2020-10-24 20:09:27.759 +05:30 [INF] Inside AthleteBAL, menthod name GetLevelShuttleList
+2020-10-24 20:09:27.760 +05:30 [INF] Inside FitnessTestBAL, menthod name GetAllFitnessRatingData
+2020-10-24 20:09:27.777 +05:30 [INF] Executed action method Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App), returned result Microsoft.AspNetCore.Mvc.PartialViewResult in 25.0231ms.
+2020-10-24 20:09:27.785 +05:30 [INF] Executing PartialViewResult, running view ~/Views/Athlete/_partialAthleteList.cshtml.
+2020-10-24 20:09:27.800 +05:30 [INF] Executed PartialViewResult - view ~/Views/Athlete/_partialAthleteList.cshtml executed in 15.3024ms.
+2020-10-24 20:09:27.800 +05:30 [INF] Executed action Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App) in 64.0545ms
+2020-10-24 20:09:27.800 +05:30 [INF] Executed endpoint 'Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App)'
+2020-10-24 20:09:27.801 +05:30 [INF] Request finished in 69.7841ms 200 text/html; charset=utf-8
+2020-10-24 20:09:31.892 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/FitnessTest/GetFitnessRatingTestData?level=0&shuttle=0&time=&distance=  
+2020-10-24 20:09:31.893 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App)'
+2020-10-24 20:09:31.902 +05:30 [INF] Route matched with {action = "GetFitnessRatingTestData", controller = "FitnessTest"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetFitnessRatingTestData(Int32, Int32, Int32, Int32) on controller Yo_Yo_App.Controllers.FitnessTestController (Yo_Yo_App).
+2020-10-24 20:09:31.928 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App) - Validation state: "Invalid"
+2020-10-24 20:09:31.928 +05:30 [INF] Inside FitnessTestController, menthod name GetFitnessRatingTestData
+2020-10-24 20:09:31.928 +05:30 [INF] Inside FitnessTestBAL, menthod name GetFitnessRatingTestData
+2020-10-24 20:09:31.934 +05:30 [INF] Executed action method Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App), returned result Microsoft.AspNetCore.Mvc.PartialViewResult in 6.154ms.
+2020-10-24 20:09:31.935 +05:30 [INF] Executing PartialViewResult, running view ~/Views/FitnessTest/_partialFitnessTestResult.cshtml.
+2020-10-24 20:09:31.941 +05:30 [INF] Executed PartialViewResult - view ~/Views/FitnessTest/_partialFitnessTestResult.cshtml executed in 7.2866ms.
+2020-10-24 20:09:31.942 +05:30 [INF] Executed action Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App) in 39.8073ms
+2020-10-24 20:09:31.942 +05:30 [INF] Executed endpoint 'Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App)'
+2020-10-24 20:09:31.942 +05:30 [INF] Request finished in 50.7701ms 200 text/html; charset=utf-8
+2020-10-24 20:09:33.075 +05:30 [INF] Request starting HTTP/2 POST https://localhost:5001/Athlete/UpdateAthleteStopStatus application/x-www-form-urlencoded; charset=UTF-8 19
+2020-10-24 20:09:33.077 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.AthleteController.UpdateAthleteStopStatus (Yo_Yo_App)'
+2020-10-24 20:09:33.080 +05:30 [INF] Route matched with {action = "UpdateAthleteStopStatus", controller = "Athlete"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult UpdateAthleteStopStatus(Int32, System.String) on controller Yo_Yo_App.Controllers.AthleteController (Yo_Yo_App).
+2020-10-24 20:09:33.103 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.AthleteController.UpdateAthleteStopStatus (Yo_Yo_App) - Validation state: "Valid"
+2020-10-24 20:09:39.163 +05:30 [INF] Inside AthleteController, menthod name UpdateAthleteStopStatus, id = 1, testResult = 0-0
+2020-10-24 20:09:41.691 +05:30 [INF] Inside AthleteBAL, menthod name UpdateAthleteStopStatus
+2020-10-24 20:09:41.691 +05:30 [INF] Inside AthleteBAL, menthod name GetAthletesList
+2020-10-24 20:09:41.692 +05:30 [INF] Inside AthleteBAL, menthod name CheckAthleteCompleteStatus
+2020-10-24 20:09:42.155 +05:30 [INF] UpdateAthleteStopStatus completed
+2020-10-24 20:09:52.877 +05:30 [INF] Executed action method Yo_Yo_App.Controllers.AthleteController.UpdateAthleteStopStatus (Yo_Yo_App), returned result Microsoft.AspNetCore.Mvc.JsonResult in 19773.639ms.
+2020-10-24 20:09:52.879 +05:30 [INF] Executing JsonResult, writing value of type '<>f__AnonymousType0`2[[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Boolean, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2020-10-24 20:09:52.917 +05:30 [INF] Executed action Yo_Yo_App.Controllers.AthleteController.UpdateAthleteStopStatus (Yo_Yo_App) in 19837.0836ms
+2020-10-24 20:09:52.917 +05:30 [INF] Executed endpoint 'Yo_Yo_App.Controllers.AthleteController.UpdateAthleteStopStatus (Yo_Yo_App)'
+2020-10-24 20:09:52.917 +05:30 [INF] Request finished in 19842.3579ms 200 application/json; charset=utf-8
+2020-10-24 20:10:07.380 +05:30 [INF] Request starting HTTP/2 POST https://localhost:5001/Athlete/UpdateAthleteWarnStatus application/x-www-form-urlencoded; charset=UTF-8 4
+2020-10-24 20:10:07.381 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.AthleteController.UpdateAthleteWarnStatus (Yo_Yo_App)'
+2020-10-24 20:10:07.383 +05:30 [INF] Route matched with {action = "UpdateAthleteWarnStatus", controller = "Athlete"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult UpdateAthleteWarnStatus(Int32) on controller Yo_Yo_App.Controllers.AthleteController (Yo_Yo_App).
+2020-10-24 20:10:07.399 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.AthleteController.UpdateAthleteWarnStatus (Yo_Yo_App) - Validation state: "Valid"
+2020-10-24 20:10:09.428 +05:30 [INF] Inside AthleteController, menthod name UpdateAthleteWarnStatus, id = 2
+2020-10-24 20:10:10.616 +05:30 [INF] Inside AthleteBAL, menthod name UpdateAthleteWarnStatus
+2020-10-24 20:10:10.616 +05:30 [INF] Inside AthleteBAL, menthod name GetAthletesList
+2020-10-24 20:10:10.898 +05:30 [INF] UpdateAthleteWarnStatus completed
+2020-10-24 20:25:08.312 +05:30 [INF] User profile is available. Using 'C:\Users\ggeorge\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-10-24 20:25:08.789 +05:30 [INF] Now listening on: https://localhost:5001
+2020-10-24 20:25:08.790 +05:30 [INF] Now listening on: http://localhost:5000
+2020-10-24 20:25:08.790 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2020-10-24 20:25:08.790 +05:30 [INF] Hosting environment: Development
+2020-10-24 20:25:08.790 +05:30 [INF] Content root path: D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App
+2020-10-24 20:25:11.127 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2020-10-24 20:25:11.149 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App)'
+2020-10-24 20:25:11.192 +05:30 [INF] Route matched with {action = "Index", controller = "Athlete"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Yo_Yo_App.Controllers.AthleteController (Yo_Yo_App).
+2020-10-24 20:25:11.403 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App) - Validation state: "Valid"
+2020-10-24 20:25:11.413 +05:30 [INF] Inside AthleteController, menthod name Index
+2020-10-24 20:25:11.444 +05:30 [INF] Inside FitnessTestBAL, menthod name GetCommulativeTotalTime
+2020-10-24 20:25:11.619 +05:30 [INF] Executed action method Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App), returned result Microsoft.AspNetCore.Mvc.ViewResult in 210.8836ms.
+2020-10-24 20:25:11.635 +05:30 [INF] Executing ViewResult, running view Index.
+2020-10-24 20:25:11.715 +05:30 [INF] Executed ViewResult - view Index executed in 84.3408ms.
+2020-10-24 20:25:11.716 +05:30 [INF] Executed action Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App) in 523.5915ms
+2020-10-24 20:25:11.716 +05:30 [INF] Executed endpoint 'Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App)'
+2020-10-24 20:25:11.719 +05:30 [INF] Request finished in 593.9984ms 200 text/html; charset=utf-8
+2020-10-24 20:25:11.761 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/jquery/dist/jquery.min.js  
+2020-10-24 20:25:11.761 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/css/styles.css  
+2020-10-24 20:25:11.761 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/css/site.css  
+2020-10-24 20:25:11.761 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/css/bootstrap.min.css  
+2020-10-24 20:25:11.774 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/js/Athlete.js  
+2020-10-24 20:25:11.776 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/js/bootstrap.bundle.min.js  
+2020-10-24 20:25:11.780 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+2020-10-24 20:25:11.794 +05:30 [INF] Sending file. Request path: '/css/site.css'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\css\site.css'
+2020-10-24 20:25:11.794 +05:30 [INF] Sending file. Request path: '/js/Athlete.js'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\js\Athlete.js'
+2020-10-24 20:25:11.794 +05:30 [INF] Sending file. Request path: '/js/site.js'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\js\site.js'
+2020-10-24 20:25:11.794 +05:30 [INF] Sending file. Request path: '/css/styles.css'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\css\styles.css'
+2020-10-24 20:25:11.803 +05:30 [INF] Request finished in 41.8418ms 200 text/css
+2020-10-24 20:25:11.803 +05:30 [INF] Request finished in 29.4861ms 200 application/javascript
+2020-10-24 20:25:11.804 +05:30 [INF] Request finished in 42.1394ms 200 text/css
+2020-10-24 20:25:11.807 +05:30 [INF] Request finished in 27.1651ms 200 application/javascript
+2020-10-24 20:25:11.807 +05:30 [INF] Sending file. Request path: '/lib/jquery/dist/jquery.min.js'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\lib\jquery\dist\jquery.min.js'
+2020-10-24 20:25:11.807 +05:30 [INF] Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js'
+2020-10-24 20:25:11.807 +05:30 [INF] Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css'
+2020-10-24 20:25:11.808 +05:30 [INF] Request finished in 46.784ms 200 text/css
+2020-10-24 20:25:11.808 +05:30 [INF] Request finished in 32.4317ms 200 application/javascript
+2020-10-24 20:25:11.808 +05:30 [INF] Request finished in 46.8235ms 200 application/javascript
+2020-10-24 20:25:12.180 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/Athlete/GetAllAthletes  
+2020-10-24 20:25:12.183 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App)'
+2020-10-24 20:25:12.186 +05:30 [INF] Route matched with {action = "GetAllAthletes", controller = "Athlete"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAllAthletes() on controller Yo_Yo_App.Controllers.AthleteController (Yo_Yo_App).
+2020-10-24 20:25:12.203 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App) - Validation state: "Valid"
+2020-10-24 20:25:12.204 +05:30 [INF] Inside AthleteController, menthod name GetAllAthletes
+2020-10-24 20:25:12.205 +05:30 [INF] Inside AthleteBAL, menthod name GetAllAthletes
+2020-10-24 20:25:12.205 +05:30 [INF] Inside AthleteBAL, menthod name GetAthletesList
+2020-10-24 20:25:12.217 +05:30 [INF] Inside AthleteBAL, menthod name GetLevelShuttleList
+2020-10-24 20:25:12.217 +05:30 [INF] Inside FitnessTestBAL, menthod name GetAllFitnessRatingData
+2020-10-24 20:25:12.240 +05:30 [INF] Executed action method Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App), returned result Microsoft.AspNetCore.Mvc.PartialViewResult in 36.0835ms.
+2020-10-24 20:25:12.241 +05:30 [INF] Executing PartialViewResult, running view ~/Views/Athlete/_partialAthleteList.cshtml.
+2020-10-24 20:25:12.261 +05:30 [INF] Executed PartialViewResult - view ~/Views/Athlete/_partialAthleteList.cshtml executed in 19.9849ms.
+2020-10-24 20:25:12.261 +05:30 [INF] Executed action Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App) in 74.6224ms
+2020-10-24 20:25:12.261 +05:30 [INF] Executed endpoint 'Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App)'
+2020-10-24 20:25:12.262 +05:30 [INF] Request finished in 82.3443ms 200 text/html; charset=utf-8
+2020-10-24 20:25:14.647 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/FitnessTest/GetFitnessRatingTestData?level=0&shuttle=0&time=&distance=  
+2020-10-24 20:25:14.649 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App)'
+2020-10-24 20:25:14.658 +05:30 [INF] Route matched with {action = "GetFitnessRatingTestData", controller = "FitnessTest"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetFitnessRatingTestData(Int32, Int32, Int32, Int32) on controller Yo_Yo_App.Controllers.FitnessTestController (Yo_Yo_App).
+2020-10-24 20:25:14.682 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App) - Validation state: "Invalid"
+2020-10-24 20:25:14.683 +05:30 [INF] Inside FitnessTestController, menthod name GetFitnessRatingTestData
+2020-10-24 20:25:22.978 +05:30 [INF] Inside FitnessTestBAL, menthod name GetFitnessRatingTestData
+2020-10-24 20:25:23.385 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/FitnessTest/GetFitnessRatingTestData?level=0&shuttle=0&time=&distance=  
+2020-10-24 20:25:23.386 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App)'
+2020-10-24 20:25:23.386 +05:30 [INF] Route matched with {action = "GetFitnessRatingTestData", controller = "FitnessTest"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetFitnessRatingTestData(Int32, Int32, Int32, Int32) on controller Yo_Yo_App.Controllers.FitnessTestController (Yo_Yo_App).
+2020-10-24 20:25:23.401 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App) - Validation state: "Invalid"
+2020-10-24 20:25:23.402 +05:30 [INF] Inside FitnessTestController, menthod name GetFitnessRatingTestData
+2020-10-24 20:25:23.747 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/FitnessTest/GetFitnessRatingTestData?level=0&shuttle=0&time=&distance=  
+2020-10-24 20:25:23.748 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App)'
+2020-10-24 20:25:23.748 +05:30 [INF] Route matched with {action = "GetFitnessRatingTestData", controller = "FitnessTest"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetFitnessRatingTestData(Int32, Int32, Int32, Int32) on controller Yo_Yo_App.Controllers.FitnessTestController (Yo_Yo_App).
+2020-10-24 20:25:23.771 +05:30 [INF] Inside FitnessTestBAL, menthod name GetFitnessRatingTestData
+2020-10-24 20:25:25.161 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App) - Validation state: "Invalid"
+2020-10-24 20:25:25.185 +05:30 [INF] Inside FitnessTestController, menthod name GetFitnessRatingTestData
+2020-10-24 20:25:25.185 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/FitnessTest/GetFitnessRatingTestData?level=0&shuttle=0&time=&distance=  
+2020-10-24 20:25:27.793 +05:30 [INF] Inside FitnessTestBAL, menthod name GetFitnessRatingTestData
+2020-10-24 20:25:28.465 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App)'
+2020-10-24 20:25:28.465 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/FitnessTest/GetFitnessRatingTestData?level=0&shuttle=0&time=&distance=  
+2020-10-24 20:25:28.480 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/FitnessTest/GetFitnessRatingTestData?level=0&shuttle=0&time=&distance=  
+2020-10-24 20:25:28.481 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App)'
+2020-10-24 20:25:28.481 +05:30 [INF] Route matched with {action = "GetFitnessRatingTestData", controller = "FitnessTest"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetFitnessRatingTestData(Int32, Int32, Int32, Int32) on controller Yo_Yo_App.Controllers.FitnessTestController (Yo_Yo_App).
+2020-10-24 20:25:28.481 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App)'
+2020-10-24 20:25:28.481 +05:30 [INF] Route matched with {action = "GetFitnessRatingTestData", controller = "FitnessTest"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetFitnessRatingTestData(Int32, Int32, Int32, Int32) on controller Yo_Yo_App.Controllers.FitnessTestController (Yo_Yo_App).
+2020-10-24 20:25:28.481 +05:30 [INF] Route matched with {action = "GetFitnessRatingTestData", controller = "FitnessTest"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetFitnessRatingTestData(Int32, Int32, Int32, Int32) on controller Yo_Yo_App.Controllers.FitnessTestController (Yo_Yo_App).
+2020-10-24 20:25:28.525 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App) - Validation state: "Invalid"
+2020-10-24 20:25:29.875 +05:30 [INF] Inside FitnessTestController, menthod name GetFitnessRatingTestData
+2020-10-24 20:25:29.876 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App) - Validation state: "Invalid"
+2020-10-24 20:25:29.877 +05:30 [INF] Inside FitnessTestController, menthod name GetFitnessRatingTestData
+2020-10-24 20:25:33.934 +05:30 [INF] Inside FitnessTestBAL, menthod name GetFitnessRatingTestData
+2020-10-24 20:25:33.934 +05:30 [INF] Inside FitnessTestBAL, menthod name GetFitnessRatingTestData
+2020-10-24 20:25:33.934 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.FitnessTestController.GetFitnessRatingTestData (Yo_Yo_App) - Validation state: "Invalid"
+2020-10-24 20:25:39.539 +05:30 [INF] Inside FitnessTestController, menthod name GetFitnessRatingTestData
+2020-10-24 20:25:52.017 +05:30 [INF] Inside FitnessTestBAL, menthod name GetFitnessRatingTestData
+2020-10-24 20:38:19.799 +05:30 [INF] User profile is available. Using 'C:\Users\ggeorge\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-10-24 20:38:20.283 +05:30 [INF] Now listening on: https://localhost:5001
+2020-10-24 20:38:20.283 +05:30 [INF] Now listening on: http://localhost:5000
+2020-10-24 20:38:20.284 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2020-10-24 20:38:20.284 +05:30 [INF] Hosting environment: Development
+2020-10-24 20:38:20.284 +05:30 [INF] Content root path: D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App
+2020-10-24 20:38:22.474 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2020-10-24 20:38:22.497 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App)'
+2020-10-24 20:38:22.540 +05:30 [INF] Route matched with {action = "Index", controller = "Athlete"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Yo_Yo_App.Controllers.AthleteController (Yo_Yo_App).
+2020-10-24 20:38:22.773 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App) - Validation state: "Valid"
+2020-10-24 20:38:22.784 +05:30 [INF] Inside AthleteController, menthod name Index
+2020-10-24 20:38:22.817 +05:30 [INF] Inside FitnessTestBAL, menthod name GetCommulativeTotalTime
+2020-10-24 20:38:23.010 +05:30 [INF] Executed action method Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App), returned result Microsoft.AspNetCore.Mvc.ViewResult in 231.0906ms.
+2020-10-24 20:38:23.028 +05:30 [INF] Executing ViewResult, running view Index.
+2020-10-24 20:38:23.154 +05:30 [INF] Executed ViewResult - view Index executed in 129.9127ms.
+2020-10-24 20:38:23.155 +05:30 [INF] Executed action Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App) in 614.5601ms
+2020-10-24 20:38:23.155 +05:30 [INF] Executed endpoint 'Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App)'
+2020-10-24 20:38:23.159 +05:30 [INF] Request finished in 686.8438ms 200 text/html; charset=utf-8
+2020-10-24 20:38:23.208 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/css/bootstrap.min.css  
+2020-10-24 20:38:23.208 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/css/site.css  
+2020-10-24 20:38:23.209 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/jquery/dist/jquery.min.js  
+2020-10-24 20:38:23.209 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/js/Athlete.js  
+2020-10-24 20:38:23.208 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/css/styles.css  
+2020-10-24 20:38:23.224 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/js/bootstrap.bundle.min.js  
+2020-10-24 20:38:23.257 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+2020-10-24 20:38:23.293 +05:30 [INF] Sending file. Request path: '/js/site.js'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\js\site.js'
+2020-10-24 20:38:23.293 +05:30 [INF] Sending file. Request path: '/js/Athlete.js'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\js\Athlete.js'
+2020-10-24 20:38:23.293 +05:30 [INF] Sending file. Request path: '/css/styles.css'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\css\styles.css'
+2020-10-24 20:38:23.293 +05:30 [INF] Sending file. Request path: '/css/site.css'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\css\site.css'
+2020-10-24 20:38:23.310 +05:30 [INF] Request finished in 101.8886ms 200 text/css
+2020-10-24 20:38:23.314 +05:30 [INF] Request finished in 104.8714ms 200 application/javascript
+2020-10-24 20:38:23.315 +05:30 [INF] Request finished in 58.2497ms 200 application/javascript
+2020-10-24 20:38:23.317 +05:30 [INF] Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js'
+2020-10-24 20:38:23.318 +05:30 [INF] Request finished in 109.2604ms 200 text/css
+2020-10-24 20:38:23.317 +05:30 [INF] Sending file. Request path: '/lib/jquery/dist/jquery.min.js'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\lib\jquery\dist\jquery.min.js'
+2020-10-24 20:38:23.318 +05:30 [INF] Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css'
+2020-10-24 20:38:23.318 +05:30 [INF] Request finished in 109.9428ms 200 application/javascript
+2020-10-24 20:38:23.318 +05:30 [INF] Request finished in 110.1088ms 200 text/css
+2020-10-24 20:38:23.318 +05:30 [INF] Request finished in 94.8334ms 200 application/javascript
+2020-10-24 20:38:23.732 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/Athlete/GetAllAthletes  
+2020-10-24 20:38:23.734 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App)'
+2020-10-24 20:38:23.736 +05:30 [INF] Route matched with {action = "GetAllAthletes", controller = "Athlete"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAllAthletes() on controller Yo_Yo_App.Controllers.AthleteController (Yo_Yo_App).
+2020-10-24 20:38:23.751 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App) - Validation state: "Valid"
+2020-10-24 20:38:23.751 +05:30 [INF] Inside AthleteController, menthod name GetAllAthletes
+2020-10-24 20:38:23.752 +05:30 [INF] Inside AthleteBAL, menthod name GetAllAthletes
+2020-10-24 20:38:23.753 +05:30 [INF] Inside AthleteBAL, menthod name GetAthletesList
+2020-10-24 20:38:23.760 +05:30 [INF] Inside AthleteBAL, menthod name GetLevelShuttleList
+2020-10-24 20:38:23.760 +05:30 [INF] Inside FitnessTestBAL, menthod name GetAllFitnessRatingData
+2020-10-24 20:38:23.778 +05:30 [INF] Executed action method Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App), returned result Microsoft.AspNetCore.Mvc.PartialViewResult in 26.962ms.
+2020-10-24 20:38:23.780 +05:30 [INF] Executing PartialViewResult, running view ~/Views/Athlete/_partialAthleteList.cshtml.
+2020-10-24 20:38:23.794 +05:30 [INF] Executed PartialViewResult - view ~/Views/Athlete/_partialAthleteList.cshtml executed in 15.3224ms.
+2020-10-24 20:38:23.795 +05:30 [INF] Executed action Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App) in 58.6772ms
+2020-10-24 20:38:23.795 +05:30 [INF] Executed endpoint 'Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App)'
+2020-10-24 20:38:23.795 +05:30 [INF] Request finished in 63.9708ms 200 text/html; charset=utf-8
+2020-10-24 20:38:28.184 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2020-10-24 20:38:28.184 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App)'
+2020-10-24 20:38:28.185 +05:30 [INF] Route matched with {action = "Index", controller = "Athlete"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Yo_Yo_App.Controllers.AthleteController (Yo_Yo_App).
+2020-10-24 20:38:28.203 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App) - Validation state: "Valid"
+2020-10-24 20:38:28.203 +05:30 [INF] Inside AthleteController, menthod name Index
+2020-10-24 20:38:30.160 +05:30 [INF] Inside FitnessTestBAL, menthod name GetCommulativeTotalTime
+2020-10-24 20:38:34.869 +05:30 [INF] Executed action method Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App), returned result Microsoft.AspNetCore.Mvc.ViewResult in 6665.0492ms.
+2020-10-24 20:38:34.869 +05:30 [INF] Executing ViewResult, running view Index.
+2020-10-24 20:38:34.872 +05:30 [INF] Executed ViewResult - view Index executed in 3.0781ms.
+2020-10-24 20:38:34.872 +05:30 [INF] Executed action Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App) in 6687.0966ms
+2020-10-24 20:38:34.872 +05:30 [INF] Executed endpoint 'Yo_Yo_App.Controllers.AthleteController.Index (Yo_Yo_App)'
+2020-10-24 20:38:34.873 +05:30 [INF] Request finished in 6689.3565ms 200 text/html; charset=utf-8
+2020-10-24 20:38:34.987 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/css/bootstrap.min.css  
+2020-10-24 20:38:34.990 +05:30 [INF] Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css'
+2020-10-24 20:38:34.990 +05:30 [INF] Request finished in 3.2254ms 200 text/css
+2020-10-24 20:38:34.994 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/css/site.css  
+2020-10-24 20:38:34.995 +05:30 [INF] Sending file. Request path: '/css/site.css'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\css\site.css'
+2020-10-24 20:38:34.995 +05:30 [INF] Request finished in 0.9061ms 200 text/css
+2020-10-24 20:38:34.998 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/css/styles.css  
+2020-10-24 20:38:34.999 +05:30 [INF] Sending file. Request path: '/css/styles.css'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\css\styles.css'
+2020-10-24 20:38:34.999 +05:30 [INF] Request finished in 0.7173ms 200 text/css
+2020-10-24 20:38:35.003 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/jquery/dist/jquery.min.js  
+2020-10-24 20:38:35.005 +05:30 [INF] Sending file. Request path: '/lib/jquery/dist/jquery.min.js'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\lib\jquery\dist\jquery.min.js'
+2020-10-24 20:38:35.005 +05:30 [INF] Request finished in 2.1263ms 200 application/javascript
+2020-10-24 20:38:35.012 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/js/Athlete.js  
+2020-10-24 20:38:35.012 +05:30 [INF] Sending file. Request path: '/js/Athlete.js'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\js\Athlete.js'
+2020-10-24 20:38:35.013 +05:30 [INF] Request finished in 0.8026ms 200 application/javascript
+2020-10-24 20:38:35.020 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/js/bootstrap.bundle.min.js  
+2020-10-24 20:38:35.022 +05:30 [INF] Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js'
+2020-10-24 20:38:35.022 +05:30 [INF] Request finished in 2.6093ms 200 application/javascript
+2020-10-24 20:38:35.023 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+2020-10-24 20:38:35.024 +05:30 [INF] Sending file. Request path: '/js/site.js'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\js\site.js'
+2020-10-24 20:38:35.024 +05:30 [INF] Request finished in 1.3867ms 200 application/javascript
+2020-10-24 20:38:35.517 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/favicon.ico  
+2020-10-24 20:38:35.523 +05:30 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App\wwwroot\favicon.ico'
+2020-10-24 20:38:35.523 +05:30 [INF] Request finished in 6.3737ms 200 image/x-icon
+2020-10-24 20:38:35.729 +05:30 [INF] Request starting HTTP/2 GET https://localhost:5001/Athlete/GetAllAthletes  
+2020-10-24 20:38:35.732 +05:30 [INF] Executing endpoint 'Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App)'
+2020-10-24 20:38:35.733 +05:30 [INF] Route matched with {action = "GetAllAthletes", controller = "Athlete"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAllAthletes() on controller Yo_Yo_App.Controllers.AthleteController (Yo_Yo_App).
+2020-10-24 20:38:35.749 +05:30 [INF] Executing action method Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App) - Validation state: "Valid"
+2020-10-24 20:38:35.749 +05:30 [INF] Inside AthleteController, menthod name GetAllAthletes
+2020-10-24 20:38:35.749 +05:30 [INF] Inside AthleteBAL, menthod name GetAllAthletes
+2020-10-24 20:38:35.749 +05:30 [INF] Inside AthleteBAL, menthod name GetAthletesList
+2020-10-24 20:38:35.749 +05:30 [INF] Inside AthleteBAL, menthod name GetLevelShuttleList
+2020-10-24 20:38:35.749 +05:30 [INF] Inside FitnessTestBAL, menthod name GetAllFitnessRatingData
+2020-10-24 20:38:35.752 +05:30 [INF] Executed action method Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App), returned result Microsoft.AspNetCore.Mvc.PartialViewResult in 2.4144ms.
+2020-10-24 20:38:35.752 +05:30 [INF] Executing PartialViewResult, running view ~/Views/Athlete/_partialAthleteList.cshtml.
+2020-10-24 20:38:35.755 +05:30 [INF] Executed PartialViewResult - view ~/Views/Athlete/_partialAthleteList.cshtml executed in 3.0444ms.
+2020-10-24 20:38:35.755 +05:30 [INF] Executed action Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App) in 22.3428ms
+2020-10-24 20:38:35.755 +05:30 [INF] Executed endpoint 'Yo_Yo_App.Controllers.AthleteController.GetAllAthletes (Yo_Yo_App)'
+2020-10-24 20:38:35.755 +05:30 [INF] Request finished in 26.7244ms 200 text/html; charset=utf-8

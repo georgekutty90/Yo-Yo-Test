@@ -1,0 +1,63 @@
+﻿@model Yo_Yo_App.Models.Athlete.FitnessTestDataModel
+
+<script>
+    $('#hdnPreviousLevel').val('@Model.PreviousLevel.ToString()');
+    $('#hdnPreviousShuttle').val('@Model.PreviousShuttle.ToString()');
+    $('#hdnCurrentLevel').val('@Model.CurentLevel.ToString()');
+    $('#hdnCurrentShuttle').val('@Model.CurrentShuttle.ToString()');
+    $('#hdnTotalDistance').val('@Model.TotalDistance.ToString()');
+    $('#hdnTime').val('@Model.TotaTime.ToString()');
+    $('#hdnNextLevelStartTime').val('@Model.NextLevelStartTime.ToString()');
+    $('#hdnStatus').val('@ViewBag.CompleteStatus');
+    $('#hdnDistancePerSecond').val('@Model.DistancePerSecond.ToString()');
+    $(document).ready(function () {
+        let fitnessCounter = parseInt($('#hdnNextLevelStartTime').val());
+        let downloadTimer = setInterval(function () {
+            if (fitnessCounter <= 0) {
+                clearInterval(downloadTimer);
+            }
+            fitnessCounter -= 1;
+            document.getElementById("spnNext").innerHTML = fitnessCounter >= 0?fitnessCounter : 0;
+        }, 1000);
+        progressBarStart();
+    });
+</script>
+<div id="dvComplete" style="display:none;">
+    <h1 class="text-info">Completed</h1>
+</div>
+<div id="dvTimerData" class="container text-center progress-track progress-bar-div timerData">
+    <div class="curverd progress-bar" id="box"></div>
+</div>
+
+<div class="start-btn">
+    <div>Level @Model.CurentLevel.ToString()</div>
+    <div>Shuttle @Model.CurrentShuttle.ToString()</div>
+    <div>@Model.Speed km/h</div>
+</div>
+
+<div class="track-details timerData">
+    <div class="track-details-col">
+        <div><strong>Next Shuttle</strong></div>
+        <div><span id="spnNext">@Model.NextLevelStartTime.ToString()</span> s</div>
+    </div>
+    <div class="track-details-col">
+        <div><strong>Total Time</strong></div>
+        <div><span id="spnTime"></span> m</div>
+    </div>
+
+    <div class="track-details-col">
+        <div><strong>Total Distance</strong></div>
+        <div><span id="spnDistance"></span> m</div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+

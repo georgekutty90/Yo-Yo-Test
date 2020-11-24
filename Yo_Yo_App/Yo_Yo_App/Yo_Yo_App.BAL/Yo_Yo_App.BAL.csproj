@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="3.1.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Yo_Yo_App.DAL\Yo_Yo_App.DAL.csproj" />
+    <ProjectReference Include="..\Yo_Yo_App.Entity\Yo_Yo_App.Entity.csproj" />
+    <ProjectReference Include="..\Yo_Yo_App.Models\Yo_Yo_App.Models.csproj" />
+    <ProjectReference Include="..\Yo_Yo_App.Utilities\Yo_Yo_App.Utilities.csproj" />
+  </ItemGroup>
+
+</Project>

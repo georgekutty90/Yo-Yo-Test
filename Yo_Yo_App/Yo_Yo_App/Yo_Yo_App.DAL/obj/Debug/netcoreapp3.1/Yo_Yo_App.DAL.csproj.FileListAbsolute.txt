@@ -1,0 +1,33 @@
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary2\obj\Debug\netcoreapp3.1\Yo_Yo_App.DAL.csprojAssemblyReference.cache
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary2\obj\Debug\netcoreapp3.1\Yo_Yo_App.DAL.AssemblyInfoInputs.cache
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary2\obj\Debug\netcoreapp3.1\Yo_Yo_App.DAL.AssemblyInfo.cs
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary2\bin\Debug\netcoreapp3.1\Yo_Yo_App.DAL.deps.json
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary2\bin\Debug\netcoreapp3.1\Yo_Yo_App.DAL.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary2\bin\Debug\netcoreapp3.1\Yo_Yo_App.Entity.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary2\bin\Debug\netcoreapp3.1\Yo_Yo_App.Entity.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary2\obj\Debug\netcoreapp3.1\Yo_Yo_App.DAL.csproj.CopyComplete
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary2\bin\Debug\netcoreapp3.1\Yo_Yo_App.DAL.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary2\obj\Debug\netcoreapp3.1\Yo_Yo_App.DAL.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary2\obj\Debug\netcoreapp3.1\Yo_Yo_App.DAL.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DAL\bin\Debug\netcoreapp3.1\Yo_Yo_App.DAL.deps.json
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DAL\bin\Debug\netcoreapp3.1\Yo_Yo_App.DAL.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DAL\bin\Debug\netcoreapp3.1\Yo_Yo_App.DAL.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DAL\obj\Debug\netcoreapp3.1\Yo_Yo_App.DAL.csprojAssemblyReference.cache
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DAL\obj\Debug\netcoreapp3.1\Yo_Yo_App.DAL.AssemblyInfoInputs.cache
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DAL\obj\Debug\netcoreapp3.1\Yo_Yo_App.DAL.AssemblyInfo.cs
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DAL\obj\Debug\netcoreapp3.1\Yo_Yo_App.DAL.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DAL\obj\Debug\netcoreapp3.1\Yo_Yo_App.DAL.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DAL\bin\Debug\netcoreapp3.1\Yo_Yo_App.Entity.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DAL\bin\Debug\netcoreapp3.1\Yo_Yo_App.Entity.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DAL\obj\Debug\netcoreapp3.1\Yo_Yo_App.DAL.csproj.CopyComplete
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DAL\bin\Debug\netcoreapp3.1\Yo_Yo_App.DAL.deps.json
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DAL\bin\Debug\netcoreapp3.1\Yo_Yo_App.DAL.dll
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DAL\bin\Debug\netcoreapp3.1\Yo_Yo_App.DAL.pdb
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DAL\bin\Debug\netcoreapp3.1\Yo_Yo_App.Entity.dll
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DAL\bin\Debug\netcoreapp3.1\Yo_Yo_App.Entity.pdb
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DAL\obj\Debug\netcoreapp3.1\Yo_Yo_App.DAL.csprojAssemblyReference.cache
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DAL\obj\Debug\netcoreapp3.1\Yo_Yo_App.DAL.AssemblyInfoInputs.cache
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DAL\obj\Debug\netcoreapp3.1\Yo_Yo_App.DAL.AssemblyInfo.cs
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DAL\obj\Debug\netcoreapp3.1\Yo_Yo_App.DAL.csproj.CopyComplete
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DAL\obj\Debug\netcoreapp3.1\Yo_Yo_App.DAL.dll
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DAL\obj\Debug\netcoreapp3.1\Yo_Yo_App.DAL.pdb

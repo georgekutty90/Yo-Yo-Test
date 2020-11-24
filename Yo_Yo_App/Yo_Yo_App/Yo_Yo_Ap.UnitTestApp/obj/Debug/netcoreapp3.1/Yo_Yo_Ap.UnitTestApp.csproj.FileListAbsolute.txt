@@ -1,0 +1,596 @@
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.deps.json
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.runtimeconfig.json
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.runtimeconfig.dev.json
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.pdb
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\testhost.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\xunit.assert.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\xunit.core.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\obj\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.csprojAssemblyReference.cache
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\obj\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.AssemblyInfoInputs.cache
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\obj\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.AssemblyInfo.cs
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\obj\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.csproj.CopyComplete
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\obj\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.dll
+D:\Freelance\Denmark\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\obj\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.pdb
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.deps.json
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.runtimeconfig.json
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.runtimeconfig.dev.json
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.pdb
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\testhost.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\xunit.assert.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\xunit.core.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\obj\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.csprojAssemblyReference.cache
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\obj\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.AssemblyInfoInputs.cache
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\obj\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.AssemblyInfo.cs
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\obj\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.csproj.CoreCompileInputs.cache
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\obj\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.csproj.CopyComplete
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\obj\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.dll
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\obj\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.pdb
+D:\Renjith\Projects\Personal\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\obj\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.genruntimeconfig.cache
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.deps.json
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.runtimeconfig.json
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.runtimeconfig.dev.json
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.pdb
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\testhost.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\xunit.assert.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\xunit.core.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\obj\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.csprojAssemblyReference.cache
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\obj\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.AssemblyInfoInputs.cache
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\obj\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.AssemblyInfo.cs
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\obj\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.csproj.CopyComplete
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\obj\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\obj\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.pdb
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.BAL.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.DAL.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.DataAcces.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.Entity.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.Models.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.ServiceConnectors.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.Utilities.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.pdb
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.BAL.pdb
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.DAL.pdb
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.Entity.pdb
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.Models.pdb
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.ServiceConnectors.pdb
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.Utilities.pdb
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.Views.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.Views.pdb
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.exe
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Moq.dll
+D:\Freelance\New folder\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.DataAcces.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.Views.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.Views.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.exe
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.deps.json
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.runtimeconfig.json
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.runtimeconfig.dev.json
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\testhost.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Moq.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\xunit.assert.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\xunit.core.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.BAL.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.DAL.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.Entity.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.Models.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.ServiceConnectors.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.Utilities.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.BAL.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.DAL.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.Entity.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.Models.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.ServiceConnectors.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\bin\Debug\netcoreapp3.1\Yo_Yo_App.Utilities.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\obj\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.csprojAssemblyReference.cache
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\obj\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.AssemblyInfoInputs.cache
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\obj\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.AssemblyInfo.cs
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\obj\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.csproj.CopyComplete
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\obj\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_Ap.UnitTestApp\obj\Debug\netcoreapp3.1\Yo_Yo_Ap.UnitTestApp.pdb

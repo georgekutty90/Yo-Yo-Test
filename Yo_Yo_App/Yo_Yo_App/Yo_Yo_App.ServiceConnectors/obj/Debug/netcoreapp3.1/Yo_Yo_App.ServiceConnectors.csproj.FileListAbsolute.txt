@@ -1,0 +1,57 @@
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary6\obj\Debug\netcoreapp3.1\Yo_Yo_App.ServiceConnectors.AssemblyInfoInputs.cache
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary6\obj\Debug\netcoreapp3.1\Yo_Yo_App.ServiceConnectors.AssemblyInfo.cs
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary6\bin\Debug\netcoreapp3.1\Yo_Yo_App.ServiceConnectors.deps.json
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary6\bin\Debug\netcoreapp3.1\Yo_Yo_App.ServiceConnectors.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary6\obj\Debug\netcoreapp3.1\Yo_Yo_App.ServiceConnectors.csprojAssemblyReference.cache
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary6\bin\Debug\netcoreapp3.1\Yo_Yo_App.ServiceConnectors.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary6\bin\Debug\netcoreapp3.1\Yo_Yo_App.BAL.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary6\bin\Debug\netcoreapp3.1\Yo_Yo_App.DAL.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary6\bin\Debug\netcoreapp3.1\Yo_Yo_App.Entity.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary6\bin\Debug\netcoreapp3.1\Yo_Yo_App.Models.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary6\bin\Debug\netcoreapp3.1\Yo_Yo_App.Utilities.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary6\bin\Debug\netcoreapp3.1\Yo_Yo_App.BAL.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary6\bin\Debug\netcoreapp3.1\Yo_Yo_App.DAL.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary6\bin\Debug\netcoreapp3.1\Yo_Yo_App.Entity.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary6\bin\Debug\netcoreapp3.1\Yo_Yo_App.Models.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary6\bin\Debug\netcoreapp3.1\Yo_Yo_App.Utilities.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary6\obj\Debug\netcoreapp3.1\Yo_Yo_App.ServiceConnectors.csproj.CopyComplete
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary6\obj\Debug\netcoreapp3.1\Yo_Yo_App.ServiceConnectors.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary6\obj\Debug\netcoreapp3.1\Yo_Yo_App.ServiceConnectors.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\bin\Debug\netcoreapp3.1\Yo_Yo_App.ServiceConnectors.deps.json
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\bin\Debug\netcoreapp3.1\Yo_Yo_App.ServiceConnectors.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\bin\Debug\netcoreapp3.1\Yo_Yo_App.ServiceConnectors.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\obj\Debug\netcoreapp3.1\Yo_Yo_App.ServiceConnectors.csprojAssemblyReference.cache
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\obj\Debug\netcoreapp3.1\Yo_Yo_App.ServiceConnectors.AssemblyInfoInputs.cache
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\obj\Debug\netcoreapp3.1\Yo_Yo_App.ServiceConnectors.AssemblyInfo.cs
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\obj\Debug\netcoreapp3.1\Yo_Yo_App.ServiceConnectors.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\obj\Debug\netcoreapp3.1\Yo_Yo_App.ServiceConnectors.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\bin\Debug\netcoreapp3.1\Yo_Yo_App.BAL.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\bin\Debug\netcoreapp3.1\Yo_Yo_App.DAL.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\bin\Debug\netcoreapp3.1\Yo_Yo_App.Entity.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\bin\Debug\netcoreapp3.1\Yo_Yo_App.Models.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\bin\Debug\netcoreapp3.1\Yo_Yo_App.Utilities.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\bin\Debug\netcoreapp3.1\Yo_Yo_App.BAL.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\bin\Debug\netcoreapp3.1\Yo_Yo_App.DAL.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\bin\Debug\netcoreapp3.1\Yo_Yo_App.Entity.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\bin\Debug\netcoreapp3.1\Yo_Yo_App.Models.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\bin\Debug\netcoreapp3.1\Yo_Yo_App.Utilities.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\obj\Debug\netcoreapp3.1\Yo_Yo_App.ServiceConnectors.csproj.CopyComplete
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\bin\Debug\netcoreapp3.1\Yo_Yo_App.ServiceConnectors.deps.json
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\bin\Debug\netcoreapp3.1\Yo_Yo_App.ServiceConnectors.dll
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\bin\Debug\netcoreapp3.1\Yo_Yo_App.ServiceConnectors.pdb
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\bin\Debug\netcoreapp3.1\Yo_Yo_App.BAL.dll
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\bin\Debug\netcoreapp3.1\Yo_Yo_App.DAL.dll
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\bin\Debug\netcoreapp3.1\Yo_Yo_App.Entity.dll
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\bin\Debug\netcoreapp3.1\Yo_Yo_App.Models.dll
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\bin\Debug\netcoreapp3.1\Yo_Yo_App.Utilities.dll
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\bin\Debug\netcoreapp3.1\Yo_Yo_App.BAL.pdb
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\bin\Debug\netcoreapp3.1\Yo_Yo_App.DAL.pdb
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\bin\Debug\netcoreapp3.1\Yo_Yo_App.Entity.pdb
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\bin\Debug\netcoreapp3.1\Yo_Yo_App.Models.pdb
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\bin\Debug\netcoreapp3.1\Yo_Yo_App.Utilities.pdb
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\obj\Debug\netcoreapp3.1\Yo_Yo_App.ServiceConnectors.csprojAssemblyReference.cache
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\obj\Debug\netcoreapp3.1\Yo_Yo_App.ServiceConnectors.AssemblyInfoInputs.cache
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\obj\Debug\netcoreapp3.1\Yo_Yo_App.ServiceConnectors.AssemblyInfo.cs
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\obj\Debug\netcoreapp3.1\Yo_Yo_App.ServiceConnectors.csproj.CopyComplete
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\obj\Debug\netcoreapp3.1\Yo_Yo_App.ServiceConnectors.dll
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.ServiceConnectors\obj\Debug\netcoreapp3.1\Yo_Yo_App.ServiceConnectors.pdb

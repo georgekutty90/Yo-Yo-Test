@@ -1,0 +1,27 @@
+﻿@model List<Yo_Yo_App.Models.Athlete.AthleteModel>
+
+<h4 class="athlete-head">Track</h4>
+@foreach (var obj in Model)
+{
+    <div class="athlete-row">
+        <div class="athlete-col">@obj.Id. @obj.TraineeName</div>
+        <div class="athlete-col">
+            @if (!obj.IsStopped)
+            {
+                <div class="athleteInit" style="display:none;">
+                    <input type="button" class="btn btn-secondary btn-sm btnWidth" id="inpwrn-@obj.Id" onclick="fnWarnAthlete(@obj.Id);" value="Warn" />
+                    <input type="button" class="btn btn-danger btn-sm btnWidth" id="inpstop-@obj.Id" onclick="fnStopAthlete(@obj.Id);" value="Stop" />
+                </div>
+            }
+            <div>
+                <span id="spnDdl-@obj.Id" style="display:@(obj.IsStopped==true? "block": "none;")">
+                    @Html.DropDownListFor(x => obj.Result, new SelectList(obj.TraineeResult), htmlAttributes: new { @id = obj.Id, @Class = "dropdown-item border" })
+                </span>
+            </div>
+        </div>
+    </div>
+}
+
+
+
+

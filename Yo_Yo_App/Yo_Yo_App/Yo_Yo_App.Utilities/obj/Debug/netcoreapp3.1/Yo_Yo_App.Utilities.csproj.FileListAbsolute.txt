@@ -1,0 +1,23 @@
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary7\bin\Debug\netcoreapp3.1\Yo_Yo_App.Utilities.deps.json
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary7\bin\Debug\netcoreapp3.1\Yo_Yo_App.Utilities.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary7\bin\Debug\netcoreapp3.1\Yo_Yo_App.Utilities.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary7\obj\Debug\netcoreapp3.1\Yo_Yo_App.Utilities.AssemblyInfoInputs.cache
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary7\obj\Debug\netcoreapp3.1\Yo_Yo_App.Utilities.AssemblyInfo.cs
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary7\obj\Debug\netcoreapp3.1\Yo_Yo_App.Utilities.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary7\obj\Debug\netcoreapp3.1\Yo_Yo_App.Utilities.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.Utilities\bin\Debug\netcoreapp3.1\Yo_Yo_App.Utilities.deps.json
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.Utilities\bin\Debug\netcoreapp3.1\Yo_Yo_App.Utilities.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.Utilities\bin\Debug\netcoreapp3.1\Yo_Yo_App.Utilities.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.Utilities\obj\Debug\netcoreapp3.1\Yo_Yo_App.Utilities.AssemblyInfoInputs.cache
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.Utilities\obj\Debug\netcoreapp3.1\Yo_Yo_App.Utilities.AssemblyInfo.cs
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.Utilities\obj\Debug\netcoreapp3.1\Yo_Yo_App.Utilities.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.Utilities\obj\Debug\netcoreapp3.1\Yo_Yo_App.Utilities.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.Utilities\obj\Debug\netcoreapp3.1\Yo_Yo_App.Utilities.csprojAssemblyReference.cache
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.Utilities\bin\Debug\netcoreapp3.1\Yo_Yo_App.Utilities.deps.json
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.Utilities\bin\Debug\netcoreapp3.1\Yo_Yo_App.Utilities.dll
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.Utilities\bin\Debug\netcoreapp3.1\Yo_Yo_App.Utilities.pdb
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.Utilities\obj\Debug\netcoreapp3.1\Yo_Yo_App.Utilities.csprojAssemblyReference.cache
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.Utilities\obj\Debug\netcoreapp3.1\Yo_Yo_App.Utilities.AssemblyInfoInputs.cache
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.Utilities\obj\Debug\netcoreapp3.1\Yo_Yo_App.Utilities.AssemblyInfo.cs
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.Utilities\obj\Debug\netcoreapp3.1\Yo_Yo_App.Utilities.dll
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.Utilities\obj\Debug\netcoreapp3.1\Yo_Yo_App.Utilities.pdb

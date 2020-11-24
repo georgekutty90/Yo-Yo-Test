@@ -1,0 +1,23 @@
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary3\obj\Debug\netcoreapp3.1\Yo_Yo_App.DataAcces.AssemblyInfoInputs.cache
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary3\obj\Debug\netcoreapp3.1\Yo_Yo_App.DataAcces.AssemblyInfo.cs
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary3\bin\Debug\netcoreapp3.1\Yo_Yo_App.DataAcces.deps.json
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary3\bin\Debug\netcoreapp3.1\Yo_Yo_App.DataAcces.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary3\obj\Debug\netcoreapp3.1\Yo_Yo_App.DataAcces.csprojAssemblyReference.cache
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary3\bin\Debug\netcoreapp3.1\Yo_Yo_App.DataAcces.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary3\obj\Debug\netcoreapp3.1\Yo_Yo_App.DataAcces.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\ClassLibrary3\obj\Debug\netcoreapp3.1\Yo_Yo_App.DataAcces.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DataAcces\bin\Debug\netcoreapp3.1\Yo_Yo_App.DataAcces.deps.json
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DataAcces\bin\Debug\netcoreapp3.1\Yo_Yo_App.DataAcces.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DataAcces\bin\Debug\netcoreapp3.1\Yo_Yo_App.DataAcces.pdb
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DataAcces\obj\Debug\netcoreapp3.1\Yo_Yo_App.DataAcces.AssemblyInfoInputs.cache
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DataAcces\obj\Debug\netcoreapp3.1\Yo_Yo_App.DataAcces.AssemblyInfo.cs
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DataAcces\obj\Debug\netcoreapp3.1\Yo_Yo_App.DataAcces.dll
+D:\New folder (3)\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DataAcces\obj\Debug\netcoreapp3.1\Yo_Yo_App.DataAcces.pdb
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DataAcces\bin\Debug\netcoreapp3.1\Yo_Yo_App.DataAcces.deps.json
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DataAcces\bin\Debug\netcoreapp3.1\Yo_Yo_App.DataAcces.dll
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DataAcces\bin\Debug\netcoreapp3.1\Yo_Yo_App.DataAcces.pdb
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DataAcces\obj\Debug\netcoreapp3.1\Yo_Yo_App.DataAcces.csprojAssemblyReference.cache
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DataAcces\obj\Debug\netcoreapp3.1\Yo_Yo_App.DataAcces.AssemblyInfoInputs.cache
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DataAcces\obj\Debug\netcoreapp3.1\Yo_Yo_App.DataAcces.AssemblyInfo.cs
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DataAcces\obj\Debug\netcoreapp3.1\Yo_Yo_App.DataAcces.dll
+D:\AspNetCoreTest\AspNetCoreTest\Yo_Yo_App\Yo_Yo_App\Yo_Yo_App.DataAcces\obj\Debug\netcoreapp3.1\Yo_Yo_App.DataAcces.pdb

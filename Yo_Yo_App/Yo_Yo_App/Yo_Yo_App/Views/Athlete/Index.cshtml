@@ -1,0 +1,69 @@
+﻿
+@{
+    ViewData["Title"] = "Yo Yo Test";
+}
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/js/Athlete.js"></script>
+<script>
+  $(function(){
+      fnLoadAthlete();
+});
+    fnStartTimer = () => {
+        $('#inpStart').hide();
+        $('.athleteInit').css("display", "block");
+        let counter = 0;
+        let distance = 0;
+        let minutes = 0;
+        let seconds = 0;
+        $('#hdnCurrentShuttle').val(0);
+        $('#hdnCurrentLevel').val(0);
+            let timeleft = '@ViewBag.TotalTime';
+            let downloadTimer = setInterval(function () {
+            if (timeleft <= 0 || $('#hdnStatus').val()=="true") {
+                fnAthleteCompleteResult();
+                clearInterval(downloadTimer);
+                $('#dvComplete').show();
+                $('.timerData').hide()
+            }
+
+            if ($('#hdnTime').val() <= counter) {
+                fnGetFitnessRatingData();
+            }
+
+            timeleft -= 1;
+            counter++;
+            minutes = Math.floor(counter / 60);
+            seconds = counter % 60;
+            document.getElementById("spnTime").innerHTML = `${minutes}:${seconds}`;
+            distance = distance + parseFloat($('#hdnDistancePerSecond').val());
+            document.getElementById("spnDistance").innerHTML = parseFloat(distance).toFixed(2);
+            }, 1000);
+    }
+</script>
+
+@*Fitness test data contatiner - Partial View*@
+<div id="errorTosetr" class="toast error" style="display:none;"></div>
+<div id="warningToster" class="toast warning" style="display:none;"></div>
+<h1>Yo Yo Test</h1>
+
+<div id="dynamicContentContainer" class="p-1">
+    <span class="start-btn" onclick="fnStartTimer();"><i class="fa fa-play" aria-hidden="true"></i></span>
+</div>
+
+
+@*Athlete list contatiner - Partial View*@
+<div id="dvAthleteContentContainer" class="scroll p-1">
+</div>
+
+<input type="hidden" id="hdnTime" />
+<input type="hidden" id="hdnPreviousShuttle" />
+<input type="hidden" id="hdnPreviousLevel" />
+<input type="hidden" id="hdnCurrentShuttle" />
+<input type="hidden" id="hdnCurrentLevel" />
+<input type="hidden" id="hdnNextLevelStartTime" />
+<input type="hidden" id="hdnTotalDistance" />
+<input type="hidden" id="hdnStatus" />
+<input type="hidden" id="hdnDistancePerSecond" />
+
+
+
