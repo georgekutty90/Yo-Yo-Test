@@ -31,3 +31,7 @@ following a Multitier architecture.
 
 • Toaster is added if user warn/stop an athlete.
 
+# Technical Documentation is attached with the repository.
+
+# Video demonstration of the code walkthrough
+
